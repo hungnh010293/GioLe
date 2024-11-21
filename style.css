@@ -159,6 +159,10 @@ body {
   cursor: pointer;
 }
 
+.table-container tbody tr:hover td {
+  background: #e3e3e3;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -892,4 +896,18 @@ tr:hover td {
   tbody tr:active {
     transform: scale(0.98);
   }
+}
+
+#refreshButton {
+    padding: 0px 16px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: var(--card-bg);
+    font-size: 0.95rem;
+    cursor: pointer;
+}
+
+.time-slot label:hover, #refreshButton:hover {
+  background: #e3e3e3;
+  transition: .3s;
 }

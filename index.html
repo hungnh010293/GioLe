@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giờ Thánh Lễ - Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="responsive.css">
+    <link rel="stylesheet" href="style.css">
+	<script src="script.js" defer></script>
+	
+</head>
+
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-logo">
+            <img src="images/logo.svg" alt="Logo" height="70">
+        </div>
+        <nav class="sidebar-menu">
+            <a href="#" class="menu-item active">Trang chủ</a>
+            <a href="#" class="menu-item">Giờ Lễ</a>
+            <a href="#" class="menu-item">Nhà Thờ</a>
+            <a href="#" class="menu-item">Thống kê</a>
+			<button id="refreshFilters" class="refresh-button">Làm mới bộ lọc</button>
+        </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <button class="sidebar-toggle">
+            <i class="fas fa-bars"></i>
+        </button>
+        <header class="dashboard-header">
+            <div class="header-title">
+                <h1>Giờ Thánh Lễ</h1>
+            </div>
+        </header>
+
+        <!-- Filters -->
+        <section class="filters-section">
+            <div class="search-filters">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="search" class="search-input" placeholder="Tìm Nhà Thờ, Quận, Địa chỉ ...">
+                </div>
+                <select class="filter-select">
+                    <option value="">Tất cả quận</option>
+                    <option value="quan1">Quận 1</option>
+                    <option value="quan2">Quận 2</option>
+                    <option value="quan3">Quận 3</option>
+                    <option value="quan4">Quận 4</option>
+                    <option value="quan5">Quận 5</option>
+                    <option value="quan6">Quận 6</option>
+                    <option value="quan7">Quận 7</option>
+                    <option value="quan8">Quận 8</option>
+                    <option value="quan9">Quận 9</option>
+                    <option value="quan10">Quận 10</option>
+                    <option value="quan11">Quận 11</option>
+                    <option value="quan12">Quận 12</option>
+                    <option value="quanBinhTan">Quận Bình Tân</option>
+                    <option value="quanBinhThanh">Quận Bình Thạnh</option>
+                    <option value="quanGoVap">Quận Gò Vấp</option>
+                    <option value="quanPhuNhuan">Quận Phú Nhuận</option>
+                    <option value="quanTanBinh">Quận Tân Bnh</option>
+                    <option value="quanTanPhu">Quận Tân Phú</option>
+                    <option value="quanThuDuc">Quận Thủ Đức</option>
+                    <option value="huyenBinhChanh">Huyện Bình Chánh</option>
+                    <option value="huyenCanGio">Huyện Cần Giờ</option>
+                    <option value="huyenCuChi">Huyện Củ Chi</option>
+                    <option value="huyenHocMon">Huyện Hóc Môn</option>
+                    <option value="huyenNhaBe">Huyện Nhà Bè</option>
+                </select>
+            </div>
+            <div class="time-filter">
+                <div class="tabs">
+                    <button class="tab active" data-day="weekday">Ngày thường</button>
+                    <button class="tab" data-day="saturday">Thứ Bảy</button>
+                    <button class="tab" data-day="sunday">Chúa Nhật</button>
+                </div>
+                <div class="time-slots">
+                    <!-- Thời gian sẽ được render ở đây -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Loading State -->
+        <div class="loading-spinner hidden">
+            <div class="spinner"></div>
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state hidden">
+            <i class="fas fa-church"></i>
+            <h3>Không tìm thấy kết quả</h3>
+            <p>Vui lòng thử lại với các bộ lọc khác</p>
+        </div>
+
+
+
+        <!-- Dark Mode Toggle -->
+        <button class="dark-mode-toggle">
+            <i class="fas fa-moon"></i>
+        </button>
+
+        <!-- Table -->
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nhà Thờ</th>
+                        <th>Quận</th>
+                        <th>Địa chỉ</th>
+                        <th>Lễ Chúa Nhật</th>
+                        <th>Lễ Thứ 7</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Data will be populated from churches.json -->
+                </tbody>
+            </table>
+        </div>
+        <!-- Pagination -->
+        <div class="pagination">
+            <button class="prev-page"><i class="fas fa-chevron-left"></i></button>
+            <button class="active">1</button>
+            <button>2</button>
+            <button>3</button>
+            <button class="next-page"><i class="fas fa-chevron-right"></i></button>
+        </div>
+    </main>
+
+    <!-- Modal -->
+    <div class="modal" id="churchModal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <div class="church-details">
+                <h2 id="churchName"></h2>
+                <div class="church-main-info">
+                    <div class="church-info-left">
+                        <div class="mass-times">
+                            <h3>Thông tin Nhà Thờ</h3>
+                        </div>
+                        <div class="detail-row">
+                            <span class="detail-label">Địa chỉ:</span>
+                            <span class="detail-value" id="churchAddress"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="detail-label">Bổn mạng:</span>
+                            <span class="detail-value" id="churchPatron"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="detail-label">Liên hệ:</span>
+                            <span class="detail-value" id="churchPhone"></span>
+                        </div>
+                        <div class="detail-row">
+                            <span class="detail-label">Thành lập:</span>
+                            <span class="detail-value" id="churchFoundedYear"></span>
+                        </div>
+                    </div>
+
+                    <div class="church-image-container">
+                        <img class="church-thumbnail" id="churchImage" alt="Hình ảnh nhà thờ">
+                    </div>
+                </div>
+
+                <div class="mass-times">
+                    <h3>Lịch Thánh Lễ</h3>
+                    <div class="mass-schedule" id="massSchedule"></div>
+                </div>
+
+                <div class="priests-section">
+                    <h3>Linh Mục Quản Nhiệm</h3>
+                    <div id="priestsList"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal cho ảnh lớn -->
+    <div id="imageModal" class="image-modal">
+        <img id="expandedImg">
+    </div>
+
+</body>
+
+</html>

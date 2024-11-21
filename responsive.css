@@ -1,0 +1,14 @@
+@media only screen and (max-width: 768px) {
+  .modal-close {
+    position: sticky !important;
+    right: 0.5rem !important;
+  }
+
+  .time-slots {
+    max-height: 194px;
+    overflow-y: scroll;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+}

@@ -75,9 +75,8 @@ body {
 }
 
 #massSchedule .mass-day:last-child h4 {
-	color: #ff1515;
+  color: #ff1515;
 }
-
 
 /* Header */
 .dashboard-header {
@@ -160,7 +159,7 @@ body {
 }
 
 .table-container tbody tr:hover td {
-  background: #e3e3e3;
+  background: #f3f2f2a3;
 }
 
 table {
@@ -899,15 +898,16 @@ tr:hover td {
 }
 
 #refreshButton {
-    padding: 0px 16px;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    background: var(--card-bg);
-    font-size: 0.95rem;
-    cursor: pointer;
+  padding: 0px 16px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: var(--card-bg);
+  font-size: 0.95rem;
+  cursor: pointer;
 }
 
-.time-slot label:hover, #refreshButton:hover {
+.time-slot label:hover,
+#refreshButton:hover {
   background: #e3e3e3;
-  transition: .3s;
+  transition: 0.3s;
 }

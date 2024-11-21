@@ -5,7 +5,7 @@
   --background: #f1f5f9;
   --card-bg: #ffffff;
   --text-primary: #1e293b;
-  --text-secondary: #64748b;
+  --text-secondary: #303d51;
   --text-white: #fff;
   --border-radius: 16px;
   --primary-color: #60778d;
@@ -151,7 +151,8 @@ body {
   background: var(--card-bg);
   border-radius: var(--border-radius);
   overflow: hidden;
-  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05);
+  /* box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05); */
+  box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
 }
 
 .table-container tbody tr {
@@ -331,6 +332,7 @@ tr:hover td {
   border-radius: 8px;
   cursor: pointer;
   margin-bottom: 1rem;
+  width: 40px;
 }
 
 @media (max-width: 1024px) {
@@ -504,6 +506,10 @@ tr:hover td {
   cursor: pointer;
   z-index: 1001;
   padding: 0.5rem;
+}
+
+.modal-close:hover {
+  color: #8085b1;
 }
 
 /* Responsive adjustments */
@@ -898,12 +904,13 @@ tr:hover td {
 }
 
 #refreshButton {
-  padding: 0px 16px;
+  padding: 10px 15px;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
   background: var(--card-bg);
   font-size: 0.95rem;
   cursor: pointer;
+  box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
 }
 
 .time-slot label:hover,

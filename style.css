@@ -313,12 +313,12 @@ tr:hover td {
 }
 
 /* Dark Mode Styles */
-[data-theme="dark"] {
+/* [data-theme="dark"] {
   --background: #1a1a1a;
   --card-bg: #2d2d2d;
   --text-primary: #ffffff;
   --text-secondary: #a1a1aa;
-}
+} */
 
 .hidden {
   display: none !important;

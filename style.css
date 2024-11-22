@@ -72,6 +72,7 @@ body {
   margin-left: var(--sidebar-width);
   flex: 1;
   padding: 2rem;
+  overflow: hidden;
 }
 
 #massSchedule .mass-day:last-child h4 {

@@ -9,6 +9,9 @@
   --text-white: #fff;
   --border-radius: 16px;
   --primary-color: #60778d;
+  --hover-bg: #e5ecf7a6;
+  --border-hover: transparent;
+  --primary-btn: #546be1;
 }
 
 * {
@@ -19,9 +22,14 @@
 }
 
 body {
-  background: var(--background);
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
   display: flex;
   min-height: 100vh;
+}
+
+i.fas,
+.close-btn {
+  color: #6366f1;
 }
 
 /* Sidebar */
@@ -81,9 +89,10 @@ body {
 
 /* Header */
 .dashboard-header {
-  display: flex;
+  /* display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: center; */
+  text-align: center;
   margin-bottom: 2rem;
 }
 
@@ -116,7 +125,6 @@ body {
   left: 1rem;
   top: 50%;
   transform: translateY(-50%);
-  color: var(--text-secondary);
 }
 
 .search-input {
@@ -149,11 +157,10 @@ body {
 
 /* Table Design */
 .table-container {
-  background: var(--card-bg);
   border-radius: var(--border-radius);
   overflow: hidden;
-  /* box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.05); */
   box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
+  background-color: #fff;
 }
 
 .table-container tbody tr {
@@ -161,7 +168,7 @@ body {
 }
 
 .table-container tbody tr:hover td {
-  background: #eef6ff94;
+  background: #e5ecf7a6;
 }
 
 table {
@@ -170,7 +177,7 @@ table {
 }
 
 th {
-  background: #60778d;
+  background: var(--primary-btn);
   padding: 1.25rem 1rem;
   text-align: left;
   font-weight: 600;
@@ -317,7 +324,7 @@ tr:hover td {
 }
 
 .pagination button.active {
-  background: #60778d;
+  background: var(--primary-btn);
   color: var(--text-white);
   border: none;
 }
@@ -396,6 +403,7 @@ tr:hover td {
   color: var(--text-secondary);
   font-weight: 500;
   transition: all 0.3s ease;
+  font-size: 16px;
 }
 
 .tab.active {
@@ -784,12 +792,6 @@ tr:hover td {
   border-color: var(--border-hover);
 }
 
-.pagination button.active {
-  background: #60778d;
-  color: var(--text-white);
-  border-color: var(--primary-color);
-}
-
 .pagination button:disabled {
   opacity: 0.5;
   cursor: not-allowed;
@@ -810,7 +812,6 @@ tr:hover td {
   .table-container {
     background: transparent;
     box-shadow: none;
-    padding: 0.5rem;
   }
 
   table,
@@ -979,7 +980,6 @@ select:focus,
   font-size: 25px;
   cursor: pointer;
   z-index: 101; /* Đảm bảo nút ở trên nội dung */
-  color: #93a2cf; /* Màu sắc nút */
   animation: slide 1s infinite ease-in-out;
 }
 
@@ -1055,10 +1055,14 @@ select {
   transform: translateY(-50%);
   pointer-events: none;
   font-size: 16px;
-  color: #333;
+  color: #6366f1;
 }
 
 .custom-select {
   position: relative;
   display: inline-block;
+}
+
+#mapEmbedContainer iframe {
+  border-radius: 8px;
 }

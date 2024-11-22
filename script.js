@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         churches = await response.json();
         
         // Sau khi có dữ liệu, render time slots mặc đnh
-        renderTimeSlots('weekday');
+        renderTimeSlots('sunday');
         
         // Extract districts and populate select
         const districts = [...new Set(churches.map(church => {
@@ -533,7 +533,7 @@ function refreshFilters() {
         searchTerm: '',
         district: '',
         selectedTimes: [],
-        activeDay: 'weekday'
+        activeDay: 'sunday'
     };
     
     // Reset UI elements

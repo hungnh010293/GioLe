@@ -1,7 +1,8 @@
 @media only screen and (max-width: 768px) {
   .modal-close {
-    position: sticky !important;
-    right: 0.5rem !important;
+    position: fixed !important;
+    right: 1.7rem !important;
+    top: 12px !important;
   }
 
   .time-slots {

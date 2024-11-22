@@ -176,7 +176,7 @@ function showChurchDetails(church) {
     document.getElementById('churchName').textContent = church.name;
     
     // Xử l hiển thị ảnh
-    const imageUrl = `https://tgpsaigon.net${church.image}`;
+    const imageUrl = `${church.image}`;
     const thumbnailImg = document.getElementById('churchImage');
     thumbnailImg.src = imageUrl;
     thumbnailImg.alt = church.name;
@@ -228,6 +228,31 @@ function showChurchDetails(church) {
             `).join('')}
         </div>
     `;
+
+    // Hiển thị danh sách Map
+    const mapEmbedContainer = document.getElementById('mapEmbedContainer');
+
+    // Kiểm tra nếu có mapembed
+    if (church.mapembed) {
+        mapEmbedContainer.innerHTML = `
+            <div class="map-container">
+                <iframe src="${church.mapembed}" 
+                        width="100%" 
+                        height="350" 
+                        style="border:0;" 
+                        allowfullscreen="" 
+                        loading="lazy">
+                </iframe>
+            </div>
+        `;
+    } else {
+        // Hiển thị thông báo nếu không có mapembed
+        mapEmbedContainer.innerHTML = `
+            <p class="map-placeholder">Đang cập nhật...</p>
+        `;
+    }  
+
+
 
     // Hiển thị modal
     document.getElementById('churchModal').style.display = 'block';

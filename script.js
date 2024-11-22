@@ -263,23 +263,23 @@
             document.getElementById('churchModal').style.display = 'none';
         });
 
-        // // Đóng popup khi click ngoài vùng:
-        // const modal = document.getElementById('churchModal');
-        // const modalContent = document.querySelector('.modal-content');
+        // Đóng popup khi click ngoài vùng:
+        const modal = document.getElementById('churchModal');
+        const modalContent = document.querySelector('.modal-content');
 
-        // // Đóng popup khi click ra ngoài vùng modal-content
-        // modal.addEventListener('click', function (event) {
-        //     if (!modalContent.contains(event.target)) {
-        //         modal.style.display = 'none'; // Ẩn popup
-        //     }
-        // });
+        // Đóng popup khi click ra ngoài vùng modal-content
+        modal.addEventListener('click', function (event) {
+            if (!modalContent.contains(event.target)) {
+                modal.style.display = 'none'; // Ẩn popup
+            }
+        });
 
-        // // Đóng popup khi nhấn ESC
-        // document.addEventListener('keydown', function (event) {
-        //     if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
-        //         modal.style.display = 'none'; // Ẩn popup
-        //     }
-        // });
+        // Đóng popup khi nhấn ESC
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
+                modal.style.display = 'none'; // Ẩn popup
+            }
+        });
 
         // Populate table
         function populateTable(filteredChurches = churches) {
@@ -426,40 +426,40 @@
         }
 
         // Dark Mode Toggle
-        function setupDarkMode() {
-            const darkModeToggle = document.querySelector('.dark-mode-toggle');
-            const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
+        // function setupDarkMode() {
+        //     const darkModeToggle = document.querySelector('.dark-mode-toggle');
+        //     const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
 
-            // Kiểm tra theme đã lưu
-            const currentTheme = localStorage.getItem('theme');
-            if (currentTheme) {
-                document.documentElement.setAttribute('data-theme', currentTheme);
-                updateDarkModeIcon(currentTheme === 'dark');
-            } else if (prefersDarkScheme.matches) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-                updateDarkModeIcon(true);
-            }
+        //     // Kiểm tra theme đã lưu
+        //     const currentTheme = localStorage.getItem('theme');
+        //     if (currentTheme) {
+        //         document.documentElement.setAttribute('data-theme', currentTheme);
+        //         updateDarkModeIcon(currentTheme === 'dark');
+        //     } else if (prefersDarkScheme.matches) {
+        //         document.documentElement.setAttribute('data-theme', 'dark');
+        //         updateDarkModeIcon(true);
+        //     }
 
-            darkModeToggle.addEventListener('click', () => {
-                let theme = document.documentElement.getAttribute('data-theme');
-                let newTheme = theme === 'dark' ? 'light' : 'dark';
+        //     darkModeToggle.addEventListener('click', () => {
+        //         let theme = document.documentElement.getAttribute('data-theme');
+        //         let newTheme = theme === 'dark' ? 'light' : 'dark';
 
-                document.documentElement.setAttribute('data-theme', newTheme);
-                localStorage.setItem('theme', newTheme);
-                updateDarkModeIcon(newTheme === 'dark');
-            });
-        }
+        //         document.documentElement.setAttribute('data-theme', newTheme);
+        //         localStorage.setItem('theme', newTheme);
+        //         updateDarkModeIcon(newTheme === 'dark');
+        //     });
+        // }
 
-        function updateDarkModeIcon(isDark) {
-            const darkModeToggle = document.querySelector('.dark-mode-toggle i');
-            darkModeToggle.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
-        }
+        // function updateDarkModeIcon(isDark) {
+        //     const darkModeToggle = document.querySelector('.dark-mode-toggle i');
+        //     darkModeToggle.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
+        // }
 
-        // Thêm vào phần khởi tạo
-        document.addEventListener('DOMContentLoaded', function () {
-            setupDarkMode();
-            // ... existing code ...
-        });
+        // // Thêm vào phần khởi tạo
+        // document.addEventListener('DOMContentLoaded', function () {
+        //     setupDarkMode();
+        //     // ... existing code ...
+        // });
 
         // Thêm vào phần script
         function setupMobileTableInteraction() {
@@ -487,20 +487,20 @@
         window.addEventListener('resize', setupMobileTableInteraction);
 
 
-document.getElementById('refreshButton').addEventListener('click', function () {
-    // Reset input search
-    const searchInput = document.querySelector('.search-input');
-    searchInput.value = '';
+// document.getElementById('refreshButton').addEventListener('click', function () {
+//     // Reset input search
+//     const searchInput = document.querySelector('.search-input');
+//     searchInput.value = '';
 
-    // Reset select box
-    const selectBox = document.querySelector('.filter-select');
-    selectBox.selectedIndex = 0; // Chọn option mặc định (Tất cả quận)
+//     // Reset select box
+//     const selectBox = document.querySelector('.filter-select');
+//     selectBox.selectedIndex = 0; // Chọn option mặc định (Tất cả quận)
 
-    // Reset tất cả checkbox
-    const checkboxes = document.querySelectorAll('.time-slots input[type="checkbox"]');
+//     // Reset tất cả checkbox
+//     const checkboxes = document.querySelectorAll('.time-slots input[type="checkbox"]');
 
-    // Duyệt qua tất cả các checkbox và đặt trạng thái là không chọn
-    checkboxes.forEach(checkbox => {
-        checkbox.checked = false;
-    });
-});
+//     // Duyệt qua tất cả các checkbox và đặt trạng thái là không chọn
+//     checkboxes.forEach(checkbox => {
+//         checkbox.checked = false;
+//     });
+// });

@@ -211,6 +211,7 @@ tr:hover td {
     transition: left 0.3s ease; /* Hiệu ứng trượt */
     z-index: 100;
     display: block !important;
+    padding: 60px 10px 20px 10px;
   }
 
   /* Button styling */
@@ -538,8 +539,10 @@ tr:hover td {
   padding: 0.5rem;
 }
 
-.modal-close:hover {
+.modal-close:hover,
+.close-btn:hover {
   color: #8085b1;
+  transition: 0.5s;
 }
 
 /* Responsive adjustments */
@@ -963,4 +966,16 @@ select:focus,
 /* Sidebar visible state */
 .sidebar.mobile.open {
   left: 0; /* Sidebar trượt vào màn hình */
+}
+
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  background: none;
+  border: none;
+  font-size: 30px;
+  cursor: pointer;
+  z-index: 101; /* Đảm bảo nút ở trên nội dung */
+  color: #333; /* Màu sắc nút */
 }

@@ -485,12 +485,20 @@
         // // Gọi function khi trang load và khi resize
         // document.addEventListener('DOMContentLoaded', setupMobileTableInteraction);
         // window.addEventListener('resize', setupMobileTableInteraction);
+        const sidebar = document.querySelector('.sidebar.mobile');
+        const closeBtn = document.querySelector('.close-btn');
+        const toggleBtn = document.querySelector('.checkbtn'); // Nút mở sidebar
+        
+        // Sự kiện mở sidebar
+        toggleBtn.addEventListener('click', () => {
+            sidebar.classList.add('open');
+        });
+        
+        // Sự kiện đóng sidebar
+        closeBtn.addEventListener('click', () => {
+            sidebar.classList.remove('open');
+        });
+        
 
-document.getElementById('check').addEventListener('change', function () {
-    const sidebar = document.querySelector('.sidebar.mobile');
-    if (this.checked) {
-        sidebar.classList.add('open'); // Thêm class để hiển thị sidebar
-    } else {
-        sidebar.classList.remove('open'); // Loại bỏ class để ẩn sidebar
-    }
-});
+
+

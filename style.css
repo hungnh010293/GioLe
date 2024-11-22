@@ -959,6 +959,8 @@ select:focus,
   font-size: 16px !important;
 }
 
+/*Sidebar mobile*/
+
 #check {
   display: none;
 }
@@ -970,12 +972,62 @@ select:focus,
 
 .close-btn {
   position: absolute;
-  top: 5px;
-  right: 10px;
+  top: 50%;
+  right: 15px;
   background: none;
   border: none;
-  font-size: 30px;
+  font-size: 25px;
   cursor: pointer;
   z-index: 101; /* Đảm bảo nút ở trên nội dung */
-  color: #333; /* Màu sắc nút */
+  color: #93a2cf; /* Màu sắc nút */
+  animation: slide 1s infinite ease-in-out;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0); /* Vị trí ban đầu */
+  }
+  50% {
+    transform: translateX(10px); /* Di chuyển sang phải một chút */
+  }
+  100% {
+    transform: translateX(0); /* Quay lại vị trí ban đầu */
+  }
+}
+
+/*Refresh button*/
+.refresh-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  background: var(--card-bg);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.refresh-button:hover {
+  background: #f8fafc;
+  border-color: #6366f1;
+}
+
+.refresh-button i {
+  font-size: 0.9rem;
+}
+
+/* Thêm animation xoay cho icon khi click */
+.refresh-button.rotating i {
+  animation: rotating 0.5s linear;
+}
+
+@keyframes rotating {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }

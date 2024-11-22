@@ -10,5 +10,10 @@
   }
 }
 
-@media only screen and (min-width: 992px) {
+/* Responsive adjustment */
+@media (max-width: 640px) {
+  .refresh-button {
+    width: 100%;
+    justify-content: center;
+  }
 }

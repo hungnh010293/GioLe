@@ -462,29 +462,29 @@
         // });
 
         // Thêm vào phần script
-        function setupMobileTableInteraction() {
-            if (window.innerWidth <= 768) {
-                const rows = document.querySelectorAll('table tr');
-                rows.forEach(row => {
-                    // Thêm hiệu ứng ripple khi click
-                    row.addEventListener('click', function (e) {
-                        const ripple = document.createElement('div');
-                        ripple.classList.add('ripple');
-                        this.appendChild(ripple);
+        // function setupMobileTableInteraction() {
+        //     if (window.innerWidth <= 768) {
+        //         const rows = document.querySelectorAll('table tr');
+        //         rows.forEach(row => {
+        //             // Thêm hiệu ứng ripple khi click
+        //             row.addEventListener('click', function (e) {
+        //                 const ripple = document.createElement('div');
+        //                 ripple.classList.add('ripple');
+        //                 this.appendChild(ripple);
 
-                        const rect = this.getBoundingClientRect();
-                        ripple.style.left = `${e.clientX - rect.left}px`;
-                        ripple.style.top = `${e.clientY - rect.top}px`;
+        //                 const rect = this.getBoundingClientRect();
+        //                 ripple.style.left = `${e.clientX - rect.left}px`;
+        //                 ripple.style.top = `${e.clientY - rect.top}px`;
 
-                        setTimeout(() => ripple.remove(), 600);
-                    });
-                });
-            }
-        }
+        //                 setTimeout(() => ripple.remove(), 600);
+        //             });
+        //         });
+        //     }
+        // }
 
-        // Gọi function khi trang load và khi resize
-        document.addEventListener('DOMContentLoaded', setupMobileTableInteraction);
-        window.addEventListener('resize', setupMobileTableInteraction);
+        // // Gọi function khi trang load và khi resize
+        // document.addEventListener('DOMContentLoaded', setupMobileTableInteraction);
+        // window.addEventListener('resize', setupMobileTableInteraction);
 
 
 // document.getElementById('refreshButton').addEventListener('click', function () {

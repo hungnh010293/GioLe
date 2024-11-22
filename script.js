@@ -216,28 +216,28 @@
                 </div>
             `;
 
-            // // Hiển thị danh sách Map
-            // const mapEmbedContainer = document.getElementById('mapEmbedContainer');
+            // Hiển thị danh sách Map
+            const mapEmbedContainer = document.getElementById('mapEmbedContainer');
 
-            // // Kiểm tra nếu có mapembed
-            // if (church.mapembed) {
-            //     mapEmbedContainer.innerHTML = `
-            //         <div class="map-container">
-            //             <iframe src="${church.mapembed}" 
-            //                     width="100%" 
-            //                     height="350" 
-            //                     style="border:0;" 
-            //                     allowfullscreen="" 
-            //                     loading="lazy">
-            //             </iframe>
-            //         </div>
-            //     `;
-            // } else {
-            //     // Hiển thị thông báo nếu không có mapembed
-            //     mapEmbedContainer.innerHTML = `
-            //         <p class="map-placeholder">Đang cập nhật...</p>
-            //     `;
-            // }            
+            // Kiểm tra nếu có mapembed
+            if (church.mapembed) {
+                mapEmbedContainer.innerHTML = `
+                    <div class="map-container">
+                        <iframe src="${church.mapembed}" 
+                                width="100%" 
+                                height="350" 
+                                style="border:0;" 
+                                allowfullscreen="" 
+                                loading="lazy">
+                        </iframe>
+                    </div>
+                `;
+            } else {
+                // Hiển thị thông báo nếu không có mapembed
+                mapEmbedContainer.innerHTML = `
+                    <p class="map-placeholder">Đang cập nhật...</p>
+                `;
+            }            
 
 
             // Hiển thị modal
@@ -263,23 +263,23 @@
             document.getElementById('churchModal').style.display = 'none';
         });
 
-        // // Đóng popup khi click ngoài vùng:
-        // const modal = document.getElementById('churchModal');
-        // const modalContent = document.querySelector('.modal-content');
+        // Đóng popup khi click ngoài vùng:
+        const modal = document.getElementById('churchModal');
+        const modalContent = document.querySelector('.modal-content');
 
-        // // Đóng popup khi click ra ngoài vùng modal-content
-        // modal.addEventListener('click', function (event) {
-        //     if (!modalContent.contains(event.target)) {
-        //         modal.style.display = 'none'; // Ẩn popup
-        //     }
-        // });
+        // Đóng popup khi click ra ngoài vùng modal-content
+        modal.addEventListener('click', function (event) {
+            if (!modalContent.contains(event.target)) {
+                modal.style.display = 'none'; // Ẩn popup
+            }
+        });
 
-        // // Đóng popup khi nhấn ESC
-        // document.addEventListener('keydown', function (event) {
-        //     if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
-        //         modal.style.display = 'none'; // Ẩn popup
-        //     }
-        // });
+        // Đóng popup khi nhấn ESC
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
+                modal.style.display = 'none'; // Ẩn popup
+            }
+        });
 
         // Populate table
         function populateTable(filteredChurches = churches) {
@@ -486,21 +486,11 @@
         // document.addEventListener('DOMContentLoaded', setupMobileTableInteraction);
         // window.addEventListener('resize', setupMobileTableInteraction);
 
-
-// document.getElementById('refreshButton').addEventListener('click', function () {
-//     // Reset input search
-//     const searchInput = document.querySelector('.search-input');
-//     searchInput.value = '';
-
-//     // Reset select box
-//     const selectBox = document.querySelector('.filter-select');
-//     selectBox.selectedIndex = 0; // Chọn option mặc định (Tất cả quận)
-
-//     // Reset tất cả checkbox
-//     const checkboxes = document.querySelectorAll('.time-slots input[type="checkbox"]');
-
-//     // Duyệt qua tất cả các checkbox và đặt trạng thái là không chọn
-//     checkboxes.forEach(checkbox => {
-//         checkbox.checked = false;
-//     });
-// });
+document.getElementById('check').addEventListener('change', function () {
+    const sidebar = document.querySelector('.sidebar.mobile');
+    if (this.checked) {
+        sidebar.classList.add('open'); // Thêm class để hiển thị sidebar
+    } else {
+        sidebar.classList.remove('open'); // Loại bỏ class để ẩn sidebar
+    }
+});

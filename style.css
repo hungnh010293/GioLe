@@ -71,7 +71,7 @@ body {
 .main-content {
   margin-left: var(--sidebar-width);
   flex: 1;
-  padding: 2rem;
+  padding: 1.6rem;
   overflow: hidden;
 }
 
@@ -161,7 +161,7 @@ body {
 }
 
 .table-container tbody tr:hover td {
-  background: #f3f2f2a3;
+  background: #eef6ff94;
 }
 
 table {
@@ -190,12 +190,40 @@ tr:hover td {
   background: #f8fafc;
 }
 
+.sidebar.mobile,
+.checkbtn {
+  display: none;
+}
+
 /* Responsive Design */
 @media (max-width: 1024px) {
   .sidebar {
-    transform: translateX(-100%);
+    display: none;
+  }
+
+  .sidebar.mobile {
     position: fixed;
+    top: 0;
+    left: -250px; /* Sidebar ở ngoài màn hình */
+    width: 250px;
+    height: 100%;
+    background-color: #fff;
+    transition: left 0.3s ease; /* Hiệu ứng trượt */
     z-index: 100;
+    display: block !important;
+  }
+
+  /* Button styling */
+  .checkbtn {
+    padding: 10px 15px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: var(--card-bg);
+    font-size: 0.95rem;
+    cursor: pointer;
+    box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
+    display: inline-block;
+    margin-bottom: 20px;
   }
 
   .main-content {
@@ -334,6 +362,7 @@ tr:hover td {
   cursor: pointer;
   margin-bottom: 1rem;
   width: 40px;
+  box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
 }
 
 @media (max-width: 1024px) {
@@ -916,6 +945,33 @@ tr:hover td {
 
 .time-slot label:hover,
 #refreshButton:hover {
-  background: #e3e3e3;
+  background: #e4f1ff;
   transition: 0.3s;
+}
+
+input,
+textarea,
+option,
+option:active,
+select:focus,
+.select2-search,
+.select2-search__field,
+.select2-results,
+.select2-results__options,
+.select2-results__option,
+.select2-search:active,
+.select2-search__field:active,
+.select2-results:active,
+.select2-results__options:active,
+.select2-results__option:active {
+  font-size: 16px !important;
+}
+
+#check {
+  display: none;
+}
+
+/* Sidebar visible state */
+.sidebar.mobile.open {
+  left: 0; /* Sidebar trượt vào màn hình */
 }

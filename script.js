@@ -263,23 +263,23 @@
             document.getElementById('churchModal').style.display = 'none';
         });
 
-        // Đóng popup khi click ngoài vùng:
-        const modal = document.getElementById('churchModal');
-        const modalContent = document.querySelector('.modal-content');
+        // // Đóng popup khi click ngoài vùng:
+        // const modal = document.getElementById('churchModal');
+        // const modalContent = document.querySelector('.modal-content');
 
-        // Đóng popup khi click ra ngoài vùng modal-content
-        modal.addEventListener('click', function (event) {
-            if (!modalContent.contains(event.target)) {
-                modal.style.display = 'none'; // Ẩn popup
-            }
-        });
+        // // Đóng popup khi click ra ngoài vùng modal-content
+        // modal.addEventListener('click', function (event) {
+        //     if (!modalContent.contains(event.target)) {
+        //         modal.style.display = 'none'; // Ẩn popup
+        //     }
+        // });
 
-        // Đóng popup khi nhấn ESC
-        document.addEventListener('keydown', function (event) {
-            if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
-                modal.style.display = 'none'; // Ẩn popup
-            }
-        });
+        // // Đóng popup khi nhấn ESC
+        // document.addEventListener('keydown', function (event) {
+        //     if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
+        //         modal.style.display = 'none'; // Ẩn popup
+        //     }
+        // });
 
         // Populate table
         function populateTable(filteredChurches = churches) {

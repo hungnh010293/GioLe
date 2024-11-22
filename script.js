@@ -26,29 +26,31 @@
                 // Initial table population
                 populateTable();
 
+                // Add event listeners
                 document.querySelector('.search-input').addEventListener('input', function () {
-                    filterState.searchTerm = this.value.toLowerCase();
-                    filterChurches();
+                    const searchTerm = this.value.toLowerCase();
+                    const filteredChurches = churches.filter(church =>
+                        church.name.toLowerCase().includes(searchTerm) ||
+                        church.address.toLowerCase().includes(searchTerm)
+                    );
+                    populateTable(filteredChurches);
                 });
-                
+
                 districtSelect.addEventListener('change', function () {
-                    filterState.selectedDistrict = this.value.toLowerCase();
-                    filterChurches();
+                    const selectedDistrict = this.value.toLowerCase();
+                    const filteredChurches = selectedDistrict ?
+                        churches.filter(church =>
+                            church.address.toLowerCase().includes(selectedDistrict)
+                        ) : churches;
+                    populateTable(filteredChurches);
                 });
-                
-                timeSlotsContainer.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
-                    checkbox.addEventListener('change', function () {
-                        filterState.selectedTimes = Array.from(document.querySelectorAll('.time-slot input:checked'))
-                            .map(input => input.value);
-                        filterChurches();
-                    });
-                });
-                
+
+                // Tab switching
                 document.querySelectorAll('.tab').forEach(tab => {
                     tab.addEventListener('click', () => {
-                        filterState.activeDay = tab.dataset.day;
-                        renderTimeSlots(filterState.activeDay);
-                        filterChurches();
+                        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                        tab.classList.add('active');
+                        renderTimeSlots(tab.dataset.day);
                     });
                 });
 
@@ -110,46 +112,50 @@
         }
 
         function filterChurches() {
+            const selectedTimes = Array.from(document.querySelectorAll('.time-slot input:checked'))
+                .map(input => input.value);
+            const activeDay = document.querySelector('.tab.active').dataset.day;
+
             let filteredChurches = churches;
-        
-            if (filterState.selectedTimes.length > 0) {
-                filteredChurches = filteredChurches.filter(church => {
-                    switch (filterState.activeDay) {
+
+            // Nếu có chọn thời gian
+            if (selectedTimes.length > 0) {
+                filteredChurches = churches.filter(church => {
+                    switch (activeDay) {
                         case 'weekday':
+                            // Kiểm tra các ngày trong tuần
                             return ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'].some(day =>
-                                church.massTimes[day]?.some(time => filterState.selectedTimes.includes(time))
+                                church.massTimes[day]?.some(time => selectedTimes.includes(time))
                             );
                         case 'saturday':
-                            return church.massTimes.saturday?.some(time => filterState.selectedTimes.includes(time));
+                            return church.massTimes.saturday?.some(time => selectedTimes.includes(time));
                         case 'sunday':
-                            return church.massTimes.sunday?.some(time => filterState.selectedTimes.includes(time));
+                            return church.massTimes.sunday?.some(time => selectedTimes.includes(time));
                         default:
                             return false;
                     }
                 });
             }
-        
-            if (filterState.searchTerm) {
+
+            // Áp dụng các bộ lọc khác nếu có (ví dụ: tìm kiếm, quận)
+            const searchTerm = document.querySelector('.search-input').value.toLowerCase();
+            const selectedDistrict = document.querySelector('.filter-select').value.toLowerCase();
+
+            if (searchTerm) {
                 filteredChurches = filteredChurches.filter(church =>
-                    church.name.toLowerCase().includes(filterState.searchTerm) ||
-                    church.address.toLowerCase().includes(filterState.searchTerm)
+                    church.name.toLowerCase().includes(searchTerm) ||
+                    church.address.toLowerCase().includes(searchTerm)
                 );
             }
-        
-            if (filterState.selectedDistrict) {
+
+            if (selectedDistrict) {
                 filteredChurches = filteredChurches.filter(church =>
-                    church.address.toLowerCase().includes(filterState.selectedDistrict)
+                    church.address.toLowerCase().includes(selectedDistrict)
                 );
             }
-        
+
             populateTable(filteredChurches);
         }
-
-        // Lưu trạng thái
-localStorage.setItem('filterState', JSON.stringify(filterState));
-
-// Khi tải lại trang
-filterState = JSON.parse(localStorage.getItem('filterState')) || filterState;
 
         // Show church details in modal
         function showChurchDetails(church) {

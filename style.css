@@ -933,18 +933,7 @@ tr:hover td {
   }
 }
 
-#refreshButton {
-  padding: 10px 15px;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  background: var(--card-bg);
-  font-size: 0.95rem;
-  cursor: pointer;
-  box-shadow: 3px 3px 10px 2px rgb(153 153 153 / 20%);
-}
-
-.time-slot label:hover,
-#refreshButton:hover {
+.time-slot label:hover {
   background: #e4f1ff;
   transition: 0.3s;
 }

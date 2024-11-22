@@ -219,25 +219,25 @@
             // Hiển thị danh sách Map
             const mapEmbedContainer = document.getElementById('mapEmbedContainer');
 
-            // Kiểm tra nếu có mapembed
-            if (church.mapembed) {
-                mapEmbedContainer.innerHTML = `
-                    <div class="map-container">
-                        <iframe src="${church.mapembed}" 
-                                width="100%" 
-                                height="350" 
-                                style="border:0;" 
-                                allowfullscreen="" 
-                                loading="lazy">
-                        </iframe>
-                    </div>
-                `;
-            } else {
-                // Hiển thị thông báo nếu không có mapembed
-                mapEmbedContainer.innerHTML = `
-                    <p class="map-placeholder">Đang cập nhật...</p>
-                `;
-            }            
+            // // Kiểm tra nếu có mapembed
+            // if (church.mapembed) {
+            //     mapEmbedContainer.innerHTML = `
+            //         <div class="map-container">
+            //             <iframe src="${church.mapembed}" 
+            //                     width="100%" 
+            //                     height="350" 
+            //                     style="border:0;" 
+            //                     allowfullscreen="" 
+            //                     loading="lazy">
+            //             </iframe>
+            //         </div>
+            //     `;
+            // } else {
+            //     // Hiển thị thông báo nếu không có mapembed
+            //     mapEmbedContainer.innerHTML = `
+            //         <p class="map-placeholder">Đang cập nhật...</p>
+            //     `;
+            // }            
 
 
             // Hiển thị modal
@@ -263,23 +263,23 @@
             document.getElementById('churchModal').style.display = 'none';
         });
 
-        // Đóng popup khi click ngoài vùng:
-        const modal = document.getElementById('churchModal');
-        const modalContent = document.querySelector('.modal-content');
+        // // Đóng popup khi click ngoài vùng:
+        // const modal = document.getElementById('churchModal');
+        // const modalContent = document.querySelector('.modal-content');
 
-        // Đóng popup khi click ra ngoài vùng modal-content
-        modal.addEventListener('click', function (event) {
-            if (!modalContent.contains(event.target)) {
-                modal.style.display = 'none'; // Ẩn popup
-            }
-        });
+        // // Đóng popup khi click ra ngoài vùng modal-content
+        // modal.addEventListener('click', function (event) {
+        //     if (!modalContent.contains(event.target)) {
+        //         modal.style.display = 'none'; // Ẩn popup
+        //     }
+        // });
 
-        // Đóng popup khi nhấn ESC
-        document.addEventListener('keydown', function (event) {
-            if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
-                modal.style.display = 'none'; // Ẩn popup
-            }
-        });
+        // // Đóng popup khi nhấn ESC
+        // document.addEventListener('keydown', function (event) {
+        //     if (event.key === 'Escape') { // Hoặc dùng event.code === 'Escape'
+        //         modal.style.display = 'none'; // Ẩn popup
+        //     }
+        // });
 
         // Populate table
         function populateTable(filteredChurches = churches) {

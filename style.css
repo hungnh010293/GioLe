@@ -1034,8 +1034,7 @@ select:focus,
 
 
 
-input:focus,
-select:focus {
+input:focus {
   border-color: #007bff;
   outline: none; /* Loại bỏ outline */
 }

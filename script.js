@@ -216,8 +216,8 @@
                 </div>
             `;
 
-            // Hiển thị danh sách Map
-            const mapEmbedContainer = document.getElementById('mapEmbedContainer');
+            // // Hiển thị danh sách Map
+            // const mapEmbedContainer = document.getElementById('mapEmbedContainer');
 
             // // Kiểm tra nếu có mapembed
             // if (church.mapembed) {

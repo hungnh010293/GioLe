@@ -236,13 +236,7 @@ function showChurchDetails(church) {
     if (church.mapembed) {
         mapEmbedContainer.innerHTML = `
             <div class="map-container">
-                <iframe src="${church.mapembed}" 
-                        width="100%" 
-                        height="350" 
-                        style="border:0;" 
-                        allowfullscreen="" 
-                        loading="lazy">
-                </iframe>
+                ${church.mapembed}          
             </div>
         `;
     } else {

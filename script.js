@@ -627,11 +627,11 @@ function populateTable(filteredChurches = null) {
                             <div class="church-footer">
                                 <div class="mass-stats">
                                     <div class="mass-badge">
-                                        <i class="fas fa-sun"></i>
+                                        <i class="fa-solid fa-cross"></i>
                                         CN: ${sundayMasses} lễ
                                     </div>
                                     <div class="mass-badge">
-                                        <i class="fas fa-star"></i>
+                                        <i class="fa-solid fa-bell"></i>
                                         T7: ${saturdayMasses} lễ
                                     </div>
                                 </div>

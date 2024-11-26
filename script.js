@@ -723,3 +723,57 @@ document.querySelector('.search-input').addEventListener('input', function() {
 
 
 
+//Date picker
+
+// Khởi tạo Flatpickr
+flatpickr("#datepicker", {
+    dateFormat: "d/m/Y", // Định dạng ngày giống với JSON
+    inline: true,        // Hiển thị lịch luôn
+    locale: {
+        firstDayOfWeek: 1, // Ngày đầu tuần là Thứ Hai
+        weekdays: {
+            shorthand: ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'],
+            longhand: ['Chủ nhật', 'Thứ Hai', 'Thứ Ba', 'Thứ Tư', 'Thứ Năm', 'Thứ Sáu', 'Thứ Bảy']
+        },
+        months: {
+            shorthand: ['Th1', 'Th2', 'Th3', 'Th4', 'Th5', 'Th6', 'Th7', 'Th8', 'Th9', 'Th10', 'Th11', 'Th12'],
+            longhand: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6', 'Tháng 7', 'Tháng 8', 'Tháng 9', 'Tháng 10', 'Tháng 11', 'Tháng 12']
+        }
+    },
+    onChange: function (selectedDates, dateStr) {
+        const selectedDate = selectedDates[0];
+        if (!selectedDate) return;
+
+        // Chuyển ngày sang định dạng MMDD để so khớp với JSON
+        const day = String(selectedDate.getDate()).padStart(2, "0");
+        const month = String(selectedDate.getMonth() + 1).padStart(2, "0");
+        const formattedDate = `${month}${day}`;
+
+        // Tải dữ liệu JSON từ file
+        fetch('./test.json') // Đường dẫn đến file JSON
+            .then(response => response.json())
+            .then(jsonData => {
+                // Tìm dữ liệu ngày từ JSON
+                const dayData = jsonData.find(item => item.date === formattedDate);
+
+                // Phần tử hiển thị thông tin
+                const infoDayElement = document.querySelector('.sec-infoday');
+
+                if (dayData) {
+                    // Hiển thị thông tin ngày
+                    const celebrations = dayData.celebrations.map(c => `<li>${c.name}</li>`).join('');
+                    infoDayElement.innerHTML = `
+                        <p><strong>Ngày:</strong> ${dayData.dayOfWeek}, ${dayData.day}/${month}</p>
+                        <p><strong>Sự kiện:</strong></p>
+                        <ul>${celebrations || '<li>Không có sự kiện nào</li>'}</ul>
+                    `;
+                } else {
+                    // Nếu không tìm thấy dữ liệu
+                    infoDayElement.innerHTML = `<p>Không có thông tin cho ngày ${day}/${month}.</p>`;
+                }
+            })
+            .catch(error => {
+                console.error("Lỗi khi tải file JSON:", error);
+            });
+    }
+});

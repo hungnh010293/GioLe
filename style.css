@@ -415,6 +415,10 @@ tr:hover td {
   .lich-cong-giao {
     flex-direction: column;
   }
+
+  .tabs {
+    display: flex;
+  }
 }
 
 .time-filter {
@@ -425,7 +429,6 @@ tr:hover td {
 }
 
 .tabs {
-  display: flex;
   border-bottom: 1px solid #e2e8f0;
   justify-content: center;
   align-items: center;

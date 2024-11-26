@@ -28,10 +28,10 @@
             <img src="images/logo.svg" alt="Logo" height="70">
         </div>
         <nav class="sidebar-menu">
-            <a href="#" class="menu-item active">Trang chủ</a>
-            <a href="#" class="menu-item">Giờ Lễ</a>
-            <a href="#" class="menu-item">Nhà Thờ</a>
-            <a href="#" class="menu-item">Thống kê</a>
+            <a href="#gio-thanh-le" class="menu-item active">Giờ Thánh Lễ</a>
+            <a href="#thong-tin" class="menu-item">Giới Thiệu</a>
+            <a href="#loi-chua" class="menu-item">Lời Chúa Hôm Nay</a>
+            <a href="#lich-cong-giao" class="menu-item">Lịch Công Giáo</a>
         </nav>
     </aside>
     <!-- Main Content -->
@@ -43,16 +43,19 @@
         </label>
 
         <aside class="sidebar mobile">
+            <div class="sidebar-logo">
+                <img src="images/logo.svg" alt="Logo" height="70">
+            </div>
             <nav class="sidebar-menu">
-                <a href="#" class="menu-item active">Trang chủ</a>
-                <a href="#" class="menu-item">Giờ Lễ</a>
-                <a href="#" class="menu-item">Nhà Thờ</a>
-                <a href="#" class="menu-item">Thống kê</a>
+                <a href="#gio-thanh-le" class="menu-item active">Giờ Thánh Lễ</a>
+                <a href="#thong-tin" class="menu-item">Giới Thiệu</a>
+                <a href="#loi-chua" class="menu-item">Lời Chúa Hôm Nay</a>
+                <a href="#lich-cong-giao" class="menu-item">Lịch Công Giáo</a>
             </nav>
             <button class="close-btn"><i class="fa-solid fa-angles-left"></i></button>
         </aside>
 
-        <header class="dashboard-header">
+        <header class="dashboard-header" id="gio-thanh-le">
             <div class="header-title">
                 <h1>Giờ Thánh Lễ</h1>
             </div>
@@ -157,8 +160,41 @@
             <button>3</button>
             <button class="next-page"><i class="fas fa-chevron-right"></i></button>
         </div>
-    </main>
+        
+        <header class="section-header sub">
+                <div class="header-title">
+                    <h1 id="thong-tin">Lời Ngỏ</h1>
+                </div>
+                <img src="churches_images/background-nha-tho.jpg">
+        </header>
+        <div class="sec-content">
+            <p>Website <a href="https://giolehcm.com/">giolehcm.com</a> là một trang Web cá nhân, không đại diện cho bất cứ ban ngành / tổ chức nào.</p>
+            <p>Website được thành lập với mong muốn tạo ra một trang Web để quý Cộng Đoàn có thể tìm kiếm giờ tham dự Thánh Lễ thật dễ dàng, và chính xác ở khu vực các Quận/Huyện Thành Phố Hồ Chí Minh.</p>
+            <p>Các thông tin trên Website được sưu tầm từ các trang Web khác / Facebook / Google Maps , ... Con biết là có nhiều thông tin chưa thực sự chính xác, hoặc chưa được cập nhật mới nhất, con kính mong Quý Cộng Đoàn, Quý Anh Chị Em Công Giáo, Quý Ban Ngành Đoàn Thể của Nhà Thờ, Quý Tu Sĩ cùng chung tay hỗ trợ giúp chúng con trong việc hoàn thiện thông tin trên Website này.</p>
+            <p>Mọi ý kiến đóng góp, cập nhật thông tin Giờ Thánh Lễ, Vị trí nhà Thờ, Số điện thoại liên lạc của Giáo Xứ, Linh Mục quản nhiệm,... con thực sự rất trân quý, và kính nhờ Cộng Đoàn gửi Email tới hộp thư: <a href="mailto:contact@giolehcm.com">contact@giolehcm.com</a></p>
+            <p>Con xin kính chúc quý Cộng Đoàn thật nhiều sức khoẻ, nguyện xin Thiên Chúa và Mẹ Maria luôn cầu bầu và ban ơn lành cho mọi người chúng ta.</p>
+            <p>Trân trọng!</p>
+        </div>
 
+        <header class="section-header sub">
+            <div class="header-title">
+                <h1 id="loi-chua">Lời Chúa Hôm Nay</h1>
+            </div>
+        </header>
+        <div class="sec-content">
+            <p>Đang cập nhật ... </p>
+        </div>
+
+        <header class="section-header sub">
+            <div class="header-title">
+                <h1 id="lich-cong-giao">Lịch Công Giáo</h1>
+            </div>
+        </header>
+        <div class="sec-content">
+            <p>Đang cập nhật ... </p>
+        </div>
+
+    </main>
     <!-- Modal -->
     <div class="modal" id="churchModal">
         <div class="modal-content">
@@ -216,6 +252,8 @@
     <div id="imageModal" class="image-modal">
         <img id="expandedImg">
     </div>
+
+    
 </body>
 
 </html>

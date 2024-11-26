@@ -14,6 +14,10 @@
   --primary-btn: #6366f1;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @font-face {
   font-family: "Plus Jakarta Sans";
   src: url(fonts/PlusJakartaSans-Regular.ttf);
@@ -40,20 +44,18 @@ i.fas,
 /* Sidebar */
 .sidebar {
   width: var(--sidebar-width);
-  background: var(--card-bg);
   padding: 2rem;
-  border-right: 1px solid #e2e8f0;
+  border-right: 2px solid #ffffff;
   position: fixed;
   height: 100vh;
   overflow-y: auto;
+  background: linear-gradient(rgb(0 0 0 / 81%), rgb(0 0 0 / 69%)), url(/churches_images/Chua-Giesu.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .sidebar-logo {
   margin-bottom: 2rem;
-  /* padding-bottom: 2rem; */
-  border-bottom: 1px solid #e2e8f0;
-  background-color: cadetblue;
-  border-radius: 15px;
 }
 
 .sidebar-menu {
@@ -65,18 +67,17 @@ i.fas,
 .menu-item {
   padding: 1rem;
   border-radius: 12px;
-  color: var(--text-secondary);
+  color: #fff;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 
 .menu-item:hover {
-  background: #f8fafc;
-  color: var(--text-primary);
+  background: #575ad7 !important;
 }
 
 .menu-item.active {
-  background: var(--primary-gradient);
+  background: var(--primary-btn);
   color: white;
 }
 
@@ -94,17 +95,20 @@ i.fas,
 
 /* Header */
 .dashboard-header {
-  /* display: flex;
-  justify-content: space-between;
-  align-items: center; */
   text-align: center;
   margin-bottom: 2rem;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
 }
 
 .header-title h1 {
   font-size: 1.875rem;
   font-weight: 700;
-  color: var(--text-primary);
+  color: #fff;
 }
 
 /* Search and Filters */
@@ -174,7 +178,7 @@ i.fas,
 }
 
 .table-container tbody tr:hover td {
-  background: #e9e9e98f;
+  background: #e8eff5;
 }
 
 table {
@@ -402,6 +406,10 @@ tr:hover td {
   .refresh-button {
     width: 100%;
     justify-content: center;
+  }
+
+  .section-header.sub img {
+    display: none !important;
   }
 }
 
@@ -829,12 +837,12 @@ tr:hover td {
 
 @media (min-width: 768px) {
   .time-slot label:hover {
-    background: #e8e9e9;
+    background: #e8eff5;
     transition: 0.3s;
   }
 
   .pagination button:hover:not(:disabled) {
-    background: var(--hover-bg);
+    background: #e8eff5;
     border-color: var(--border-hover);
   }
 }
@@ -1094,4 +1102,26 @@ select {
 
 #mapEmbedContainer iframe {
   border-radius: 8px;
+}
+
+.section-header.sub img {
+  margin-top: 2em;
+  border-radius: 12px;
+}
+
+.sec-content p {
+  line-height: 2rem;
+}
+
+.sec-content {
+  background: #fff;
+  padding: 10px;
+  text-align: justify;
+  border-radius: 10px;
+  border: 2px dashed var(--primary-btn);
+}
+
+.sec-content a {
+  text-decoration: none;
+  color: #1f24e9;
 }

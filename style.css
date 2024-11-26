@@ -1,5 +1,5 @@
 :root {
-  --primary-gradient: linear-gradient(45deg, #3498db, #c8a4d7);
+  --primary-gradient: #87b1ff;
   --sidebar-width: 280px;
   --header-height: 70px;
   --background: #f1f5f9;
@@ -174,7 +174,7 @@ i.fas,
 }
 
 .table-container tbody tr:hover td {
-  background: #e5ecf7a6;
+  background: #e9e9e98f;
 }
 
 table {
@@ -829,7 +829,7 @@ tr:hover td {
 
 @media (min-width: 768px) {
   .time-slot label:hover {
-    background: #e4f1ff;
+    background: #e8e9e9;
     transition: 0.3s;
   }
 

@@ -720,7 +720,6 @@ document.querySelector('.search-input').addEventListener('input', function() {
         closeBtn.addEventListener('click', () => {
             sidebar.classList.remove('open');
         });
-        
 
 
 

@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="style.css">
     <script src="script.js" defer></script>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+
 </head>
 
 <body>
@@ -31,8 +34,7 @@
         <nav class="sidebar-menu">
             <a href="#gio-thanh-le" class="menu-item active">Giờ Thánh Lễ</a>
             <a href="#thong-tin" class="menu-item">Giới Thiệu</a>
-            <a href="#" class="menu-item">Lời Chúa Hôm Nay</a>
-            <a href="#" class="menu-item">Lịch Công Giáo</a>
+            <a href="#lich-cong-giao" class="menu-item">Lịch Công Giáo</a>
         </nav>
     </aside>
     <!-- Main Content -->
@@ -50,8 +52,7 @@
             <nav class="sidebar-menu">
                 <a href="#gio-thanh-le" class="menu-item active">Giờ Thánh Lễ</a>
                 <a href="#thong-tin" class="menu-item">Giới Thiệu</a>
-                <a href="#" class="menu-item">Lời Chúa Hôm Nay</a>
-                <a href="#" class="menu-item">Lịch Công Giáo</a>
+                <a href="#lich-cong-giao" class="menu-item">Lịch Công Giáo</a>
             </nav>
             <button class="close-btn"><i class="fa-solid fa-angles-left"></i></button>
         </aside>
@@ -184,16 +185,44 @@
         </header>
         <div class="sec-content">
             <p>Đang cập nhật ... </p>
-        </div>
+        </div> -->
 
         <header class="section-header sub">
             <div class="header-title">
                 <h1 id="lich-cong-giao">Lịch Công Giáo</h1>
             </div>
         </header>
-        <div class="sec-content">
-            <p>Đang cập nhật ... </p>
-        </div> -->
+
+        <div class="lich-cong-giao">
+            <div class="sec-selectday">
+                <p>Chọn ngày xem:</p>
+                <input type="text" id="datepicker">
+
+                <script>
+                    flatpickr("#datepicker", {
+                    dateFormat: "d-m-Y", // Định dạng ngày (YYYY-MM-DD)
+                    inline: true,   // Làm bảng chọn ngày luôn hiển thị
+                    locale: {
+                            firstDayOfWeek: 1, // Ngày bắt đầu tuần là Thứ Hai
+                            weekdays: {
+                            shorthand: ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'], // Viết tắt các ngày trong tuần
+                            longhand: ['Chủ nhật', 'Thứ Hai', 'Thứ Ba', 'Thứ Tư', 'Thứ Năm', 'Thứ Sáu', 'Thứ Bảy'], // Các tên đầy đủ của các ngày trong tuần
+                            },
+                            months: {
+                            shorthand: ['Th1', 'Th2', 'Th3', 'Th4', 'Th5', 'Th6', 'Th7', 'Th8', 'Th9', 'Th10', 'Th11', 'Th12'], // Viết tắt các tháng
+                            longhand: ['Tháng 1', 'Tháng 2', 'Tháng 3', 'Tháng 4', 'Tháng 5', 'Tháng 6', 'Tháng 7', 'Tháng 8', 'Tháng 9', 'Tháng 10', 'Tháng 11', 'Tháng 12'], // Các tháng đầy đủ
+                            },
+                        },
+                    //minDate: "today",    // Giới hạn ngày bắt đầu từ hôm nay
+                    //maxDate: "2024-12-31", // Giới hạn ngày cuối
+                    });
+                </script>
+
+            </div>
+            <div class="sec-infoday">
+                <p>Chi tiết ...</p>
+            </div> 
+        </div>
 
     </main>
     <!-- Modal -->

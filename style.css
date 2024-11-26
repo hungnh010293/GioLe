@@ -411,6 +411,10 @@ tr:hover td {
   .section-header.sub img {
     display: none !important;
   }
+
+  .lich-cong-giao {
+    flex-direction: column;
+  }
 }
 
 .time-filter {
@@ -1126,4 +1130,34 @@ select {
 .sec-content a {
   text-decoration: none;
   color: #1f24e9;
+}
+
+.lich-cong-giao {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#datepicker {
+  margin: 10px 0;
+  height: 35px;
+  border-radius: 6px;
+  border: none;
+  padding: 10px;
+  outline: none;
+}
+
+.flatpickr-day {
+  color: #0223a4 !important;
+}
+
+.flatpickr-day.flatpickr-disabled, .flatpickr-day.flatpickr-disabled:hover, .flatpickr-day.prevMonthDay, .flatpickr-day.nextMonthDay, .flatpickr-day.notAllowed, .flatpickr-day.notAllowed.prevMonthDay, .flatpickr-day.notAllowed.nextMonthDay {
+  color: #979797 !important;
+}
+
+span.flatpickr-weekday {
+  color: #000 !important;
+}
+
+.flatpickr-day.today {
+  border-color: #029554 !important;
 }

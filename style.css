@@ -423,6 +423,8 @@ tr:hover td {
 .tabs {
   display: flex;
   border-bottom: 1px solid #e2e8f0;
+  justify-content: center;
+  align-items: center;
 }
 
 .tab {
@@ -985,7 +987,7 @@ tr:hover td {
   }
 
   .tab {
-    font-size: 12px;
+    font-size: 13px;
   }
 }
 

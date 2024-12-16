@@ -1,7 +1,6 @@
 [
     {
         "name": "An Bình",
-        "url": "/gioi-thieu-giao-xu/an-binh-699",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -52,7 +51,6 @@
     },
     {
         "name": "An Lạc",
-        "url": "/gioi-thieu-giao-xu/an-lac-638",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -110,7 +108,6 @@
     },
     {
         "name": "An Nhơn",
-        "url": "/gioi-thieu-giao-xu/an-nhon-926",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -170,7 +167,6 @@
     },
     {
         "name": "An Phú",
-        "url": "/gioi-thieu-giao-xu/an-phu-881",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -213,7 +209,6 @@
     },
     {
         "name": "An Thới Đông",
-        "url": "/gioi-thieu-giao-xu/an-thoi-dong-882",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -270,7 +265,6 @@
     },
     {
         "name": "Antôn",
-        "url": "/gioi-thieu-giao-xu/anton-639",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -313,7 +307,6 @@
     },
     {
         "name": "Antôn Cầu Ông Lãnh",
-        "url": "/gioi-thieu-giao-xu/anton-cau-ong-lanh-706",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -362,7 +355,6 @@
     },
     {
         "name": "Ba Thôn",
-        "url": "/gioi-thieu-giao-xu/ba-thon-680",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -414,7 +406,6 @@
     },
     {
         "name": "Bà Điểm",
-        "url": "/gioi-thieu-giao-xu/ba-diem-681",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -477,7 +468,6 @@
     },
     {
         "name": "Bàn Cờ",
-        "url": "/gioi-thieu-giao-xu/ban-co-707",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -523,7 +513,6 @@
     },
     {
         "name": "Bác Ái",
-        "url": "/gioi-thieu-giao-xu/bac-ai-670",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -573,7 +562,6 @@
     },
     {
         "name": "Bình An",
-        "url": "/gioi-thieu-giao-xu/binh-an-1",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -638,7 +626,6 @@
     },
     {
         "name": "Bình An Thượng",
-        "url": "/gioi-thieu-giao-xu/binh-an-thuong-2",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -696,7 +683,6 @@
     },
     {
         "name": "Bình Chiểu",
-        "url": "/gioi-thieu-giao-xu/binh-chieu-959",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -755,7 +741,6 @@
     },
     {
         "name": "Bình Chánh",
-        "url": "/gioi-thieu-giao-xu/binh-chanh-908",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -814,7 +799,6 @@
     },
     {
         "name": "Bình Hoà",
-        "url": "/gioi-thieu-giao-xu/binh-hoa-667",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -858,7 +842,6 @@
     },
     {
         "name": "Bình Hưng",
-        "url": "/gioi-thieu-giao-xu/binh-hung-4",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -917,7 +900,6 @@
     },
     {
         "name": "Bình Lợi",
-        "url": "/gioi-thieu-giao-xu/binh-loi-655",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -975,7 +957,6 @@
     },
     {
         "name": "Bình Minh",
-        "url": "/gioi-thieu-giao-xu/binh-minh-5",
         "massTimes": {
             "sunday": [
                 "07:30",
@@ -1024,7 +1005,6 @@
     },
     {
         "name": "Bình Phước",
-        "url": "/gioi-thieu-giao-xu/binh-phuoc-700",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -1075,7 +1055,6 @@
     },
     {
         "name": "Bình Sơn",
-        "url": "/gioi-thieu-giao-xu/binh-son-6",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1125,7 +1104,6 @@
     },
     {
         "name": "Bình Thuận",
-        "url": "/gioi-thieu-giao-xu/binh-thuan-909",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1213,7 +1191,6 @@
     },
     {
         "name": "Bình Thuận",
-        "url": "/gioi-thieu-giao-xu/binh-thuan-8",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1264,7 +1241,6 @@
     },
     {
         "name": "Bình Thái",
-        "url": "/gioi-thieu-giao-xu/binh-thai-7",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -1323,7 +1299,6 @@
     },
     {
         "name": "Bình Thọ",
-        "url": "/gioi-thieu-giao-xu/binh-tho-960",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -1373,7 +1348,6 @@
     },
     {
         "name": "Bình Thới",
-        "url": "/gioi-thieu-giao-xu/binh-thoi-850",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -1417,7 +1391,6 @@
     },
     {
         "name": "Bình Xuyên",
-        "url": "/gioi-thieu-giao-xu/binh-xuyen-9",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1461,7 +1434,6 @@
     },
     {
         "name": "Bình Đông",
-        "url": "/gioi-thieu-giao-xu/binh-dong-3",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1499,7 +1471,6 @@
         "phone": "0933792683",
         "foundedYear": "1958",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15680.5846868373!2d106.6303195!3d10.7232071!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e0a16a3acdd%3A0x518fbd1381b408a3!2zTmjDoCB0aOG7nSBCw6xuaCDEkMO0bmc!5e0!3m2!1svi!2s!4v1732585107625!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-le-hoang-minh_05102020_000209.jpg",
@@ -1519,7 +1490,6 @@
     },
     {
         "name": "Bùi Môn",
-        "url": "/gioi-thieu-giao-xu/bui-mon-683",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1559,7 +1529,6 @@
         "phone": "02838914304",
         "foundedYear": "1955 - 1996",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.25979434427!2d106.59363611130465!3d10.867834289241863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752a6f04961b39%3A0x71d47a9bf1b3c5f9!2zTmjDoCB0aOG7nSBCw7lpIE3DtG4!5e0!3m2!1svi!2s!4v1732585236185!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gioan-b-tran-van-tri_04092022_102601.jpg",
@@ -1586,7 +1555,6 @@
     },
     {
         "name": "Bùi Phát",
-        "url": "/gioi-thieu-giao-xu/bui-phat-945",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1632,7 +1600,6 @@
         "phone": "02838436376",
         "foundedYear": "1955 - 1966",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2987765224075!2d106.66950591130377!3d10.788413289316704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed4f19d6831%3A0x27409bf236dfe318!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIELDuWkgUGjDoXQ!5e0!3m2!1svi!2s!4v1732585310211!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-le-ngoc-da_10082023_220156.jpg",
@@ -1652,7 +1619,6 @@
     },
     {
         "name": "Bạch Đằng",
-        "url": "/gioi-thieu-giao-xu/bach-dang-682",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -1708,7 +1674,6 @@
     },
     {
         "name": "Bắc Dũng",
-        "url": "/gioi-thieu-giao-xu/bac-dung-927",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1746,7 +1711,6 @@
         "phone": "(028) 3895 1238",
         "foundedYear": "1954",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d823.7551083207024!2d106.6655952917188!3d10.852442038729347!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b7406f4f6d%3A0xd75077ba8ece445f!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIELhuq9jIETFqW5n!5e0!3m2!1svi!2s!4v1732585862860!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-vu-quang-truong_22102020_090446.jpg",
@@ -1759,7 +1723,6 @@
     },
     {
         "name": "Bắc Hà",
-        "url": "/gioi-thieu-giao-xu/bac-ha-849",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1805,7 +1768,6 @@
         "phone": "02839271032",
         "foundedYear": "1954",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15678.276564526574!2d106.6690479!3d10.7676514!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ee73fe0d877%3A0x88756238baf1ad83!2zR2nDoW8geOG7qSBC4bqvYyBIw6A!5e0!3m2!1svi!2s!4v1732585902329!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phero-nguyen-thanh-tung_08112022_103623.jpg",
@@ -1832,7 +1794,6 @@
     },
     {
         "name": "Bến Cát",
-        "url": "/gioi-thieu-giao-xu/ben-cat-671",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1873,7 +1834,6 @@
         "phone": "028 3894 0854",
         "foundedYear": "1963 - 1990",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.7829385073615!2d106.68783101130421!3d10.827916489279472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528f72d078d21%3A0x8095362a2213ef6b!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIELhur9uIEPDoXQ!5e0!3m2!1svi!2s!4v1732585992113!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-duc-tamsdb-_04092024_054316.jpg",
@@ -1893,7 +1853,6 @@
     },
     {
         "name": "Bến Hải",
-        "url": "/gioi-thieu-giao-xu/ben-hai-672",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -1932,7 +1891,6 @@
         "phone": "028 3895 5670",
         "foundedYear": "1956 - 1981",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.809617483161!2d106.69262721130426!3d10.825876889281377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528f3c0c28d0f%3A0xca0a86a8991a42d3!2zTmjDoCB0aOG7nSBC4bq_biBI4bqjaQ!5e0!3m2!1svi!2s!4v1732586113697!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-duong-vu_04102020_133230.jpg",
@@ -1945,7 +1903,6 @@
     },
     {
         "name": "Cao Thái",
-        "url": "/gioi-thieu-giao-xu/cao-thai-864",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -1983,7 +1940,6 @@
         "phone": "028 3725 0138",
         "foundedYear": "1955",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.0542328728598!2d106.81887841130494!3d10.883479789227195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174df4c515718e9%3A0xffb43be5042132c5!2zTmjDoCB0aOG7nSBDYW8gVGjDoWk!5e0!3m2!1svi!2s!4v1732586175696!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-tran-trung-hieu_05102020_001853.jpg",
@@ -2010,7 +1966,6 @@
     },
     {
         "name": "Chánh Hưng",
-        "url": "/gioi-thieu-giao-xu/chanh-hung-10",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -2042,7 +1997,6 @@
         "phone": "02838500751",
         "foundedYear": "1966 - 1970",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.9176129461935!2d106.66917871130329!3d10.740832989361586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e53ec3b9dc5%3A0x186677a5745ac7f9!2zTmjDoCB0aOG7nSBDaMOhbmggSMawbmc!5e0!3m2!1svi!2s!4v1732586282992!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/da-minh-nguyen-van-hiep_04102020_212103.jpg",
@@ -2055,7 +2009,6 @@
     },
     {
         "name": "Châu Bình",
-        "url": "/gioi-thieu-giao-xu/chau-binh-961",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2095,7 +2048,6 @@
         "phone": "028 3896 3324",
         "foundedYear": "1956 - 1996",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1385.3365412840833!2d106.74400282438458!3d10.862984855346498!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527ed9d472ee9%3A0xed5e608d82231a96!2zTmjDoCB0aOG7nSBHacOhbyB44bupIENow6J1IELDrG5o!5e0!3m2!1svi!2s!4v1732586416969!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/23082023_172304.jpg",
@@ -2108,7 +2060,6 @@
     },
     {
         "name": "Châu Nam",
-        "url": "/gioi-thieu-giao-xu/chau-nam-685",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2146,7 +2097,6 @@
         "phone": "0837131191",
         "foundedYear": "1955 - 1998",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.9244799820112!2d106.57645701130515!3d10.893343989217845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d579cea13e77%3A0x71e971167a3af144!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIENow6J1IE5hbQ!5e0!3m2!1svi!2s!4v1732586468273!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/vinh-son-do-viet-khoi-_05102020_012307.jpg",
@@ -2159,7 +2109,6 @@
     },
     {
         "name": "Chí Hoà",
-        "url": "/gioi-thieu-giao-xu/chi-hoa-640",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2202,7 +2151,6 @@
         "phone": "028 3970 0392 - 028 3865 2041",
         "foundedYear": "1771 - 1990",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2986240180653!2d106.65310721130368!3d10.788424989316669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f55cd0c8ead%3A0x1f66c4ead68d0963!2zTmjDoCB0aOG7nSBDaMOtIEjDsmE!5e0!3m2!1svi!2s!4v1732586550408!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/clemente-le-minh-trung_04102020_213053.jpg",
@@ -2229,7 +2177,6 @@
     },
     {
         "name": "Chính Lộ",
-        "url": "/gioi-thieu-giao-xu/chinh-lo-656",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2267,7 +2214,6 @@
         "phone": "02838980820",
         "foundedYear": "1970 - 2004",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.19021467715!2d106.69909731130387!3d10.79673888930888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b64ed2beb9%3A0x45a383bd3b1ce794!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIENow61uaCBM4buZ!5e0!3m2!1svi!2s!4v1732586647328!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-dinh-quang-lam_04102020_224503.jpg",
@@ -2280,7 +2226,6 @@
     },
     {
         "name": "Chúa Hiển Linh",
-        "url": "/gioi-thieu-giao-xu/chua-hien-linh-942",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2312,7 +2257,6 @@
         "phone": "02837514365",
         "foundedYear": "1963",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.774929739238!2d106.62844731130335!3d10.75182188935124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e804b300e81%3A0xd6472f9db7748242!2zTmjDoCBUaOG7nSBDaMO6YSBIaeG7g24gTGluaA!5e0!3m2!1svi!2s!4v1732586693706!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phero-nguyen-van-vo_04102020_154111.jpg",
@@ -2332,7 +2276,6 @@
     },
     {
         "name": "Chợ Cầu",
-        "url": "/gioi-thieu-giao-xu/cho-cau-686",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2371,7 +2314,6 @@
         "phone": "02838911578",
         "foundedYear": "1869 - 1989",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4474378793752!2d106.63602241130442!3d10.853533089255263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175298db4889e5f%3A0xdc04d41186db8f0a!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIENo4bujIEPhuqd1!5e0!3m2!1svi!2s!4v1732586756969!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-do-manh-cuong_04102020_203355.jpg",
@@ -2391,7 +2333,6 @@
     },
     {
         "name": "Chợ Quán",
-        "url": "/gioi-thieu-giao-xu/cho-quan-701",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2431,7 +2372,6 @@
         "phone": "02839235067",
         "foundedYear": "1720 - 1896",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.708074642775!2d106.67900191130336!3d10.756966989346376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1cb4baf3f5%3A0x99112a0fcdc0171d!2zTmjDoCB0aOG7nSBHacOhbyB44bupIENo4bujIFF1w6Fu!5e0!3m2!1svi!2s!4v1732586863384!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gabriel-trinh-cong-chanh_04102020_152643.jpg",
@@ -2451,7 +2391,6 @@
     },
     {
         "name": "Huyện Sỹ",
-        "url": "/gioi-thieu-giao-xu/cho-dui-709",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2493,7 +2432,6 @@
         "phone": "083 833 0820",
         "foundedYear": "1859 - 1900",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.5555493183456!2d106.68652551130353!3d10.768696089335295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752fabed0e9f63%3A0xbc355569de431026!2zTmjDoCB0aOG7nSBIdXnhu4duIFPhu7k!5e0!3m2!1svi!2s!4v1732586960785!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/ernest-nguyen-van-huong_04102020_152616.jpg",
@@ -2534,7 +2472,6 @@
     },
     {
         "name": "Công Lý",
-        "url": "/gioi-thieu-giao-xu/cong-ly-946",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -2567,7 +2504,6 @@
         "phone": "028 3848 3943",
         "foundedYear": "1999",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2519760903087!2d106.6808350113038!3d10.792003189313286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528d2cc50d891%3A0x3ef61840e53c038a!2zR2nDoW8geOG7qSBDw7RuZyBMw70!5e0!3m2!1svi!2s!4v1732587414592!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-hoang-tuan_22102020_084141.jpg",
@@ -2580,7 +2516,6 @@
     },
     {
         "name": "Công Thành",
-        "url": "/gioi-thieu-giao-xu/cong-thanh-865",
         "massTimes": {
             "sunday": [
                 "05:45",
@@ -2612,7 +2547,6 @@
         "phone": "02837421004",
         "foundedYear": "1954",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.369345027411!2d106.75854561130379!3d10.782997989321855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317525d70f6bba17%3A0x839499de2444dcc!2zVGjDoW5oIMSRxrDhu51uZyBHacOhbyB44bupIEPDtG5nIFRow6BuaA!5e0!3m2!1svi!2s!4v1732587491310!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/da-minh-dinh-cong-duc_04102020_192929.jpg",
@@ -2625,7 +2559,6 @@
     },
     {
         "name": "Cần Giờ",
-        "url": "/gioi-thieu-giao-xu/can-gio-883",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -2657,7 +2590,6 @@
         "phone": "02838740261",
         "foundedYear": "",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3924.0899715813903!2d106.96909511129923!3d10.414428789670252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175696fe0da193d%3A0x4bc78def4105001d!2zTmjDoCB0aOG7nSBD4bqnbiBHaeG7nQ!5e0!3m2!1svi!2s!4v1732587653367!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-ho-dac-tam-cssr_22102020_214116.jpg",
@@ -2670,7 +2602,6 @@
     },
     {
         "name": "Cầu Kho",
-        "url": "/gioi-thieu-giao-xu/cau-kho-708",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2709,7 +2640,6 @@
         "phone": "02838369617",
         "foundedYear": "1863 - 1965",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.6679484931647!2d106.68843691130355!3d10.760053889343519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1100955555%3A0x2571c01e15f2a7fe!2zTmjDoCB0aOG7nSBHacOhbyB44bupIEPhuqd1IEtobw!5e0!3m2!1svi!2s!4v1732587762823!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phero-le-van-chinh_04102020_154246.jpg",
@@ -2729,7 +2659,6 @@
     },
     {
         "name": "Cầu Lớn",
-        "url": "/gioi-thieu-giao-xu/cau-lon-684",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -2767,7 +2696,6 @@
         "phone": "02837139587",
         "foundedYear": "1979",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.1941116113876!2d106.53394191130475!3d10.872835889237136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ab2bf43d27d%3A0x41172622f6022711!2zR2nDoW8geOG7qSBD4bqndSBM4bubbg!5e0!3m2!1svi!2s!4v1732587894631!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/da-minh-nguyen-van-ngoc_04102020_225703.jpg",
@@ -2780,7 +2708,6 @@
     },
     {
         "name": "Fatima Bình Triệu",
-        "url": "/gioi-thieu-giao-xu/fatima-binh-trieu-962",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2820,7 +2747,6 @@
         "phone": "028 6272 5225",
         "foundedYear": "1977",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15675.075813341768!2d106.7103529!3d10.8289855!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310aafc182abab89%3A0x4d97e31b0ef956c8!2zTmjDoCBUaOG7nSBHacOhbyBYxrDMgSBGYXRpbWEgQsOsbmggVHJp4buHdQ!5e0!3m2!1svi!2s!4v1733324152124!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gioakim-tran-van-huong_22102020_204332.jpg",
@@ -2854,7 +2780,6 @@
     },
     {
         "name": "Gia Định",
-        "url": "/gioi-thieu-giao-xu/gia-dinh-658",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2896,7 +2821,6 @@
         "phone": "02838412184",
         "foundedYear": "1897 - 1945",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1489219744326!2d106.69732597583867!3d10.799903958758682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b7ff0b40af%3A0x642b1711df3fa853!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEdpYSDEkOG7i25o!5e0!3m2!1svi!2s!4v1733324343214!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-mai-thanh-tung_04102020_130847.JPG",
@@ -2930,7 +2854,6 @@
     },
     {
         "name": "Gò Mây",
-        "url": "/gioi-thieu-giao-xu/go-may-910",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -2971,7 +2894,6 @@
         "phone": "028 3765 0432",
         "foundedYear": "2006",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.939726345746!2d106.59936047583876!3d10.815924658462327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752b958f35235b%3A0xd0ef08bc549e4576!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEfDsiBNw6J5!5e0!3m2!1svi!2s!4v1733324599863!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/mattheu-pham-tran-thanh_14122022_104811.jpg",
@@ -2998,7 +2920,6 @@
     },
     {
         "name": "Gò Vấp",
-        "url": "/gioi-thieu-giao-xu/go-vap-674",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3037,7 +2958,6 @@
         "phone": "028 3895 7609",
         "foundedYear": "1888 - 1997",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.8549321058404!2d106.68665477805023!3d10.822411729062527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175299b3cd5dc43%3A0xecf09ed31644699b!2zR2nDoW8geOG7qSBHw7IgVuG6pXA!5e0!3m2!1svi!2s!4v1733324718230!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-tran-anh-thu_04102020_202954.jpg",
@@ -3057,7 +2977,6 @@
     },
     {
         "name": "Hiển Linh",
-        "url": "/gioi-thieu-giao-xu/hien-linh-660",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -3097,7 +3016,6 @@
         "phone": "02838993732",
         "foundedYear": "1964 - 1994",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62701.660748088056!2d106.64803007087326!3d10.822498561464773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528adbad4f1b3%3A0x20c0b7392444b203!2zTmjDoCB0aOG7nSBHacOhbyB44bupIEhp4buDbiBMaW5o!5e0!3m2!1svi!2s!4v1733324824854!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-quoc-vuong_04102020_183406.jpg",
@@ -3110,7 +3028,6 @@
     },
     {
         "name": "Hoàng Mai",
-        "url": "/gioi-thieu-giao-xu/hoang-mai-931",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -3152,7 +3069,6 @@
         "phone": "3996 2095 - 3895 1119",
         "foundedYear": "",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.509531260831!2d106.6656612758389!3d10.848796557853007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b11b0e311d%3A0x876d0c71ec27514d!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEhvw6BuZyBNYWk!5e0!3m2!1svi!2s!4v1733324991846!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/vinh-son-nguyen-minh-huan_04102020_201221.jpg",
@@ -3172,7 +3088,6 @@
     },
     {
         "name": "Hy Vọng",
-        "url": "/gioi-thieu-giao-xu/hy-vong-913",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -3211,7 +3126,6 @@
         "phone": "02854368362",
         "foundedYear": "1995",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.786715553689!2d106.62908767583872!3d10.827627758245539!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175297d190a60b9%3A0x31136e6c8eed5a31!2zTmjDoCB0aOG7nSBHacOhbyB44bupIEh5IFbhu41uZw!5e0!3m2!1svi!2s!4v1733325180119!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gioan-b-nguyen-ngoc-tan_05102020_010748.jpg",
@@ -3224,7 +3138,6 @@
     },
     {
         "name": "Hà Nội",
-        "url": "/gioi-thieu-giao-xu/ha-noi-930",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3263,7 +3176,6 @@
         "phone": "02839964575",
         "foundedYear": "1955",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.480272966118!2d106.66221617583903!3d10.85102865781157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b7549ae70d%3A0x3b8fc8c1ffe619f4!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEjDoCBO4buZaQ!5e0!3m2!1svi!2s!4v1733325292133!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-hoang-dinh-hai_21082024_213913.jpg",
@@ -3276,7 +3188,6 @@
     },
     {
         "name": "Hà Đông",
-        "url": "/gioi-thieu-giao-xu/ha-dong-929",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3315,7 +3226,6 @@
         "phone": "02839964634",
         "foundedYear": "1954",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.5121512534256!2d106.6623490758389!3d10.848596657856753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b08316ea17%3A0xb841a7dfe94dcf1f!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEjDoCDEkMO0bmc!5e0!3m2!1svi!2s!4v1733325361549!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-do-quang-kha_22102020_222854.jpg",
@@ -3335,7 +3245,6 @@
     },
     {
         "name": "Hàng Xanh",
-        "url": "/gioi-thieu-giao-xu/hang-sanh-659",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3376,7 +3285,6 @@
         "phone": "02838990282",
         "foundedYear": "1960 - 1968",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1040040613643!2d106.7059484758387!3d10.803345858694987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528bba6442919%3A0x69fa872704b8153e!2zTmjDoCB0aOG7nSBIw6BuZyBYYW5o!5e0!3m2!1svi!2s!4v1733325438597!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-hoang-kim-toan_04102020_143330.jpg",
@@ -3396,7 +3304,6 @@
     },
     {
         "name": "Hòa Bình",
-        "url": "/gioi-thieu-giao-xu/hoa-binh-676",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3435,7 +3342,6 @@
         "phone": "02838955730",
         "foundedYear": "1981 - 2000",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.866479221094!2d106.67519457583876!3d10.821528558358574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528e2496a5f79%3A0x660aea6f4464d777!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEjDsmEgQsOsbmg!5e0!3m2!1svi!2s!4v1733325537381!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-van-phu-op_23102020_222926.jpg",
@@ -3448,7 +3354,6 @@
     },
     {
         "name": "Hòa Hưng",
-        "url": "/gioi-thieu-giao-xu/hoa-hung-852",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3489,7 +3394,6 @@
         "phone": "028 2214 6746 - 090 250 9090 (Cha Lãm)",
         "foundedYear": "1946",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.385926603152!2d106.66753827583841!3d10.781725159094318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ed0cc53b80d%3A0xcf008f6760d03f02!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEjDsmEgSMawbmc!5e0!3m2!1svi!2s!4v1733325674789!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gioan-b-vu-manh-hung_15082022_142755.jpg",
@@ -3509,7 +3413,6 @@
     },
     {
         "name": "Hưng Phú",
-        "url": "/gioi-thieu-giao-xu/hung-phu-11",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -3547,7 +3450,6 @@
         "phone": "02839543606",
         "foundedYear": "1968-1973",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.8566450016906!2d106.66941667583814!3d10.745529859761247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e55b929501d%3A0xc1b0be445d11a438!2zTmjDoCB0aOG7nSBUaMOhbmggR2l1c2UsIEdpw6FvIHjhu6kgSMawbmcgUGjDug!5e0!3m2!1svi!2s!4v1733325763565!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phanxico-x-le-van-thai_05102020_005206.jpg",
@@ -3560,7 +3462,6 @@
     },
     {
         "name": "Hạnh Thông Tây",
-        "url": "/gioi-thieu-giao-xu/hanh-thong-tay-669",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3601,7 +3502,6 @@
         "phone": "02838958069",
         "foundedYear": "1861",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.6711160377567!2d106.6562320758389!3d10.83646115808186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529a731fe27d7%3A0x96dcb21bbb6ebe0e!2zTmjDoCB0aOG7nSBI4bqhbmggVGjDtG5nIFTDonk!5e0!3m2!1svi!2s!4v1733325889189!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-pham-duc-tuan_04102020_133023.jpg",
@@ -3628,7 +3528,6 @@
     },
     {
         "name": "Hợp An",
-        "url": "/gioi-thieu-giao-xu/hop-an-932",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3667,12 +3566,10 @@
         "phone": "02839964584",
         "foundedYear": "",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4358662322634!2d106.66186967583896!3d10.854415557748723!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b787ee53e5%3A0x980b3020c823aab3!2zTmjDoCB0aOG7nSBHacOhbyB44bupIEjhu6NwIEFu!5e0!3m2!1svi!2s!4v1733326011820!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": []
     },
     {
         "name": "Jeanne d'Arc",
-        "url": "/gioi-thieu-giao-xu/jeanne-d-arc-702",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3712,7 +3609,6 @@
         "phone": "02838557616",
         "foundedYear": "1928 - 1998",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.7041167362663!2d106.66489867583823!3d10.757271509545095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f1e8d61fa1b%3A0xa6d8c5dd5f98034a!2zTmjDoCB0aOG7nSBUaMOhbmggbuG7ryBKZWFubmUgZCdBcmM!5e0!3m2!1svi!2s!4v1733326140884!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-bui-van-quyen_05102020_011037.jpg",
@@ -3732,7 +3628,6 @@
     },
     {
         "name": "Khiết Tâm",
-        "url": "/gioi-thieu-giao-xu/khiet-tam-641",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -3770,7 +3665,6 @@
         "phone": "02838643509",
         "foundedYear": "1968 - 1981",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15677.355267214007!2d106.6557009!3d10.785341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ec9781bdac7%3A0x32678a53b0b338a7!2zTmjDoCB0aOG7nSBLaGnhur90IFTDom0gKFF14bqtbiBUw6JuIELDrG5oKQ!5e0!3m2!1svi!2s!4v1733326313302!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phero-nguyen-van-giao-solt_23102020_162105.jpg",
@@ -3783,7 +3677,6 @@
     },
     {
         "name": "Khiết Tâm",
-        "url": "/gioi-thieu-giao-xu/khiet-tam-957",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3824,7 +3717,6 @@
         "phone": "028 3729 1572",
         "foundedYear": "1965 - 1991",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15672.630236441042!2d106.7443123!3d10.8756183!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d80af628784b%3A0x29d8d9e46623f4df!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEtoaeG6v3QgVMOibQ!5e0!3m2!1svi!2s!4v1733326456570!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/giuse-vu-hoang-anh-sss_05112020_085036.jpg",
@@ -3844,7 +3736,6 @@
     },
     {
         "name": "Khánh Hội",
-        "url": "/gioi-thieu-giao-xu/khanh-hoi-885",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -3883,7 +3774,6 @@
         "phone": "028 3940 5298",
         "foundedYear": "1967",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.6786246472916!2d106.70418357583829!3d10.759232659509014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f9a8ae74577%3A0x4fe0a313f6226909!2zR2nDoW8geOG7qSBLaMOhbmggSOG7mWk!5e0!3m2!1svi!2s!4v1733326541028!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/phaolo-nguyen-vu-thong_04102020_190846.jpg",
@@ -3896,7 +3786,6 @@
     },
     {
         "name": "Lam Sơn",
-        "url": "/gioi-thieu-giao-xu/lam-son-940",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -3934,7 +3823,6 @@
         "phone": "028 3894 7887",
         "foundedYear": "",
         "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d250914.55321219924!2d106.70552100655179!3d10.692776875539181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529b8d5433ce9%3A0x3988976186b6e706!2zTmjDoCB0aOG7nSBHacOhbyB44bupIExhbSBTxqFu!5e0!3m2!1svi!2s!4v1733326594523!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
-
         "priests": [
             {
                 "image": "/churches_images/gioan-b-pham-van-lam_04102020_204224.jpg",
@@ -3954,7 +3842,6 @@
     },
     {
         "name": "Long Bình",
-        "url": "/gioi-thieu-giao-xu/long-binh-866",
         "massTimes": {
             "sunday": [
                 "04:00",
@@ -4003,7 +3890,6 @@
     },
     {
         "name": "Long Thạnh Mỹ",
-        "url": "/gioi-thieu-giao-xu/long-thanh-my-868",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -4054,7 +3940,6 @@
     },
     {
         "name": "Long Đại",
-        "url": "/gioi-thieu-giao-xu/long-dai-867",
         "massTimes": {
             "sunday": [
                 "06:00"
@@ -4096,7 +3981,6 @@
     },
     {
         "name": "Lạc Quang",
-        "url": "/gioi-thieu-giao-xu/lac-quang-689",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -4153,7 +4037,6 @@
     },
     {
         "name": "Lạng Sơn",
-        "url": "/gioi-thieu-giao-xu/lang-son-933",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -4211,7 +4094,6 @@
     },
     {
         "name": "Lộc Hưng",
-        "url": "/gioi-thieu-giao-xu/loc-hung-642",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -4260,7 +4142,6 @@
     },
     {
         "name": "Mai Khôi",
-        "url": "/gioi-thieu-giao-xu/mai-khoi-703",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -4302,7 +4183,6 @@
     },
     {
         "name": "Mai Khôi",
-        "url": "/gioi-thieu-giao-xu/mai-khoi-948",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -4362,7 +4242,6 @@
     },
     {
         "name": "Minh Đức",
-        "url": "/gioi-thieu-giao-xu/minh-duc-869",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -4418,7 +4297,6 @@
     },
     {
         "name": "Mân Côi",
-        "url": "/gioi-thieu-giao-xu/man-coi-677",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -4476,7 +4354,6 @@
     },
     {
         "name": "Môi Khôi",
-        "url": "/gioi-thieu-giao-xu/moi-khoi-888",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -4526,7 +4403,6 @@
     },
     {
         "name": "Mông Triệu",
-        "url": "/gioi-thieu-giao-xu/mong-trieu-12",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -4570,7 +4446,6 @@
     },
     {
         "name": "Mạc ty Nho",
-        "url": "/gioi-thieu-giao-xu/mac-ty-nho-712",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -4612,7 +4487,6 @@
     },
     {
         "name": "Mẫu Tâm",
-        "url": "/gioi-thieu-giao-xu/mau-tam-643",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -4662,7 +4536,6 @@
     },
     {
         "name": "Mẫu Tâm",
-        "url": "/gioi-thieu-giao-xu/mau-tam-886",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -4719,7 +4592,6 @@
     },
     {
         "name": "Mỹ Hòa",
-        "url": "/gioi-thieu-giao-xu/my-hoa-870",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -4768,7 +4640,6 @@
     },
     {
         "name": "Nam Hoà",
-        "url": "/gioi-thieu-giao-xu/nam-hoa-644",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -4825,7 +4696,6 @@
     },
     {
         "name": "Nam Hưng",
-        "url": "/gioi-thieu-giao-xu/nam-hung-690",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -4875,7 +4745,6 @@
     },
     {
         "name": "Nam Hải",
-        "url": "/gioi-thieu-giao-xu/nam-hai-13",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -4933,7 +4802,6 @@
     },
     {
         "name": "Nam Thái",
-        "url": "/gioi-thieu-giao-xu/nam-thai-645",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -4989,7 +4857,6 @@
     },
     {
         "name": "Nghĩa Hoà",
-        "url": "/gioi-thieu-giao-xu/nghia-hoa-646",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -5046,7 +4913,6 @@
     },
     {
         "name": "Nhân Hòa",
-        "url": "/gioi-thieu-giao-xu/nhan-hoa-912",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5121,7 +4987,6 @@
     },
     {
         "name": "Ninh Phát",
-        "url": "/gioi-thieu-giao-xu/ninh-phat-914",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5199,7 +5064,6 @@
     },
     {
         "name": "Nữ Vương Hòa Bình",
-        "url": "/gioi-thieu-giao-xu/nu-vuong-hoa-binh-934",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -5249,7 +5113,6 @@
     },
     {
         "name": "Phanxicô Đakao",
-        "url": "/gioi-thieu-giao-xu/phanxico-dakao-713",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5306,7 +5169,6 @@
     },
     {
         "name": "Phát Diệm",
-        "url": "/gioi-thieu-giao-xu/phat-diem-716",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5364,7 +5226,6 @@
     },
     {
         "name": "Phú Bình",
-        "url": "/gioi-thieu-giao-xu/phu-binh-853",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5413,7 +5274,6 @@
     },
     {
         "name": "Phú Hiền",
-        "url": "/gioi-thieu-giao-xu/phu-hien-662",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5462,7 +5322,6 @@
     },
     {
         "name": "Phú Hoà",
-        "url": "/gioi-thieu-giao-xu/phu-hoa-854",
         "massTimes": {
             "sunday": [
                 "07:30",
@@ -5504,7 +5363,6 @@
     },
     {
         "name": "Phú Hòa",
-        "url": "/gioi-thieu-giao-xu/phu-hoa-854",
         "massTimes": {
             "sunday": [
                 "05:30"
@@ -5533,7 +5391,6 @@
     },
     {
         "name": "Phú Hạnh",
-        "url": "/gioi-thieu-giao-xu/phu-hanh-718",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5591,7 +5448,6 @@
     },
     {
         "name": "Phú Hải",
-        "url": "/gioi-thieu-giao-xu/phu-hai-717",
         "massTimes": {
             "sunday": [
                 "05:45",
@@ -5640,7 +5496,6 @@
     },
     {
         "name": "Phú Hữu",
-        "url": "/gioi-thieu-giao-xu/phu-huu-871",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5689,7 +5544,6 @@
     },
     {
         "name": "Phú Lộc",
-        "url": "/gioi-thieu-giao-xu/phu-loc-719",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5732,7 +5586,6 @@
     },
     {
         "name": "Phú Nhuận",
-        "url": "/gioi-thieu-giao-xu/phu-nhuan-720",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5782,7 +5635,6 @@
     },
     {
         "name": "Phú Quý",
-        "url": "/gioi-thieu-giao-xu/phu-quy-721",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5831,7 +5683,6 @@
     },
     {
         "name": "Phú Thọ Hòa",
-        "url": "/gioi-thieu-giao-xu/phu-tho-hoa-915",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5888,7 +5739,6 @@
     },
     {
         "name": "Phú Trung",
-        "url": "/gioi-thieu-giao-xu/phu-trung-916",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -5952,7 +5802,6 @@
     },
     {
         "name": "Phú Xuân",
-        "url": "/gioi-thieu-giao-xu/phu-xuan-889",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -6004,7 +5853,6 @@
     },
     {
         "name": "Sao Mai",
-        "url": "/gioi-thieu-giao-xu/sao-mai-647",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6061,7 +5909,6 @@
     },
     {
         "name": "Tam Hà",
-        "url": "/gioi-thieu-giao-xu/tam-ha-964",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -6126,7 +5973,6 @@
     },
     {
         "name": "Tam Hải",
-        "url": "/gioi-thieu-giao-xu/tam-hai-965",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6191,7 +6037,6 @@
     },
     {
         "name": "Thanh Đa",
-        "url": "/gioi-thieu-giao-xu/thanh-da-663",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -6255,7 +6100,6 @@
     },
     {
         "name": "Thiên Thần",
-        "url": "/gioi-thieu-giao-xu/thien-than-877",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6297,7 +6141,6 @@
     },
     {
         "name": "Thiên Ân",
-        "url": "/gioi-thieu-giao-xu/thien-an-922",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6361,7 +6204,6 @@
     },
     {
         "name": "Thuận Phát",
-        "url": "/gioi-thieu-giao-xu/thuan-phat-890",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -6417,7 +6259,6 @@
     },
     {
         "name": "Thái Bình",
-        "url": "/gioi-thieu-giao-xu/thai-binh-936",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6467,7 +6308,6 @@
     },
     {
         "name": "Thái Hoà",
-        "url": "/gioi-thieu-giao-xu/thai-hoa-651",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -6511,7 +6351,6 @@
     },
     {
         "name": "Thánh Cẩm",
-        "url": "/gioi-thieu-giao-xu/thanh-cam-874",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -6560,7 +6399,6 @@
     },
     {
         "name": "Thánh Gia",
-        "url": "/gioi-thieu-giao-xu/thanh-gia-950",
         "massTimes": {
             "sunday": [
                 ""
@@ -6607,7 +6445,6 @@
     },
     {
         "name": "Thánh Gioan Phaolô II",
-        "url": "/gioi-thieu-giao-xu/thanh-gioan-phaolo-ii-954",
         "massTimes": {
             "sunday": [
                 ""
@@ -6648,7 +6485,6 @@
     },
     {
         "name": "Thánh Giuse",
-        "url": "/gioi-thieu-giao-xu/thanh-giuse-678",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -6698,7 +6534,6 @@
     },
     {
         "name": "Thánh Giuse",
-        "url": "/gioi-thieu-giao-xu/thanh-giuse-863",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -6740,7 +6575,6 @@
     },
     {
         "name": "Thánh Giuse Thợ",
-        "url": "/gioi-thieu-giao-xu/thanh-giuse-tho-879",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -6782,7 +6616,6 @@
     },
     {
         "name": "Thánh Gẫm",
-        "url": "/gioi-thieu-giao-xu/thanh-gam-875",
         "massTimes": {
             "sunday": [
                 "06:00"
@@ -6823,7 +6656,6 @@
     },
     {
         "name": "Thánh Linh",
-        "url": "/gioi-thieu-giao-xu/thanh-linh-880",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -6881,7 +6713,6 @@
     },
     {
         "name": "Thánh Martinô",
-        "url": "/gioi-thieu-giao-xu/thanh-martino-668",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -6931,7 +6762,6 @@
     },
     {
         "name": "Thánh Mẫu",
-        "url": "/gioi-thieu-giao-xu/thanh-mau-723",
         "massTimes": {
             "sunday": [
                 ""
@@ -6972,7 +6802,6 @@
     },
     {
         "name": "Thánh Nguyễn Duy Khang",
-        "url": "/gioi-thieu-giao-xu/thanh-nguyen-duy-khang-958",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -7033,7 +6862,6 @@
     },
     {
         "name": "Thánh Phanxicô Xaviê",
-        "url": "/gioi-thieu-giao-xu/thanh-phanxico-xavie-704",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -7092,7 +6920,6 @@
     },
     {
         "name": "Thánh Phaolô",
-        "url": "/gioi-thieu-giao-xu/thanh-phaolo-859",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -7136,7 +6963,6 @@
     },
     {
         "name": "Thánh Phaolô 3",
-        "url": "/gioi-thieu-giao-xu/thanh-phaolo-3-951",
         "massTimes": {
             "sunday": [
                 ""
@@ -7183,7 +7009,6 @@
     },
     {
         "name": "Thánh Tâm",
-        "url": "/gioi-thieu-giao-xu/thanh-tam-876",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -7225,7 +7050,6 @@
     },
     {
         "name": "Thánh Tịnh",
-        "url": "/gioi-thieu-giao-xu/thanh-tinh-665",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7268,7 +7092,6 @@
     },
     {
         "name": "Thăng Long",
-        "url": "/gioi-thieu-giao-xu/thang-long-860",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -7317,7 +7140,6 @@
     },
     {
         "name": "Thạch Đà",
-        "url": "/gioi-thieu-giao-xu/thach-da-937",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -7398,7 +7220,6 @@
     },
     {
         "name": "Thị Nghè",
-        "url": "/gioi-thieu-giao-xu/thi-nghe-666",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7471,7 +7292,6 @@
     },
     {
         "name": "Thủ Thiêm",
-        "url": "/gioi-thieu-giao-xu/thu-thiem-878",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7520,7 +7340,6 @@
     },
     {
         "name": "Thủ Đức",
-        "url": "/gioi-thieu-giao-xu/thu-duc-966",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7587,7 +7406,6 @@
     },
     {
         "name": "Trung Bắc",
-        "url": "/gioi-thieu-giao-xu/trung-bac-938",
         "massTimes": {
             "sunday": [
                 "04:00",
@@ -7636,7 +7454,6 @@
     },
     {
         "name": "Trung Chánh",
-        "url": "/gioi-thieu-giao-xu/trung-chanh-697",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -7694,7 +7511,6 @@
     },
     {
         "name": "Trung Mỹ Tây",
-        "url": "/gioi-thieu-giao-xu/trung-my-tay-698",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7752,7 +7568,6 @@
     },
     {
         "name": "Tân Châu",
-        "url": "/gioi-thieu-giao-xu/tan-chau-924",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7801,7 +7616,6 @@
     },
     {
         "name": "Tân Chí Linh",
-        "url": "/gioi-thieu-giao-xu/tan-chi-linh-649",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7851,7 +7665,6 @@
     },
     {
         "name": "Tân Dân",
-        "url": "/gioi-thieu-giao-xu/tan-dan-648",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7900,7 +7713,6 @@
     },
     {
         "name": "Tân Hiệp",
-        "url": "/gioi-thieu-giao-xu/tan-hiep-692",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -7956,7 +7768,6 @@
     },
     {
         "name": "Tân Hòa",
-        "url": "/gioi-thieu-giao-xu/tan-hoa-722",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8006,7 +7817,6 @@
     },
     {
         "name": "Tân Hưng",
-        "url": "/gioi-thieu-giao-xu/tan-hung-693",
         "massTimes": {
             "sunday": [
                 "04:00",
@@ -8076,7 +7886,6 @@
     },
     {
         "name": "Tân Hương",
-        "url": "/gioi-thieu-giao-xu/tan-huong-917",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8132,7 +7941,6 @@
     },
     {
         "name": "Tân Lập",
-        "url": "/gioi-thieu-giao-xu/tan-lap-873",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -8191,7 +7999,6 @@
     },
     {
         "name": "Tân Mỹ",
-        "url": "/gioi-thieu-giao-xu/tan-my-694",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8240,7 +8047,6 @@
     },
     {
         "name": "Tân Phú",
-        "url": "/gioi-thieu-giao-xu/tan-phu-918",
         "massTimes": {
             "sunday": [
                 "04:00",
@@ -8319,7 +8125,6 @@
     },
     {
         "name": "Tân Phú Hòa",
-        "url": "/gioi-thieu-giao-xu/tan-phu-hoa-855",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8371,7 +8176,6 @@
     },
     {
         "name": "Tân Phước",
-        "url": "/gioi-thieu-giao-xu/tan-phuoc-856",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -8428,7 +8232,6 @@
     },
     {
         "name": "Tân Quy",
-        "url": "/gioi-thieu-giao-xu/tan-quy-695",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -8484,7 +8287,6 @@
     },
     {
         "name": "Tân Sa Châu",
-        "url": "/gioi-thieu-giao-xu/tan-sa-chau-650",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8541,7 +8343,6 @@
     },
     {
         "name": "Tân Thành",
-        "url": "/gioi-thieu-giao-xu/tan-thanh-920",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8592,7 +8393,6 @@
     },
     {
         "name": "Tân Thái Sơn",
-        "url": "/gioi-thieu-giao-xu/tan-thai-son-919",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -8663,7 +8463,6 @@
     },
     {
         "name": "Tân Thịnh",
-        "url": "/gioi-thieu-giao-xu/tan-thinh-696",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -8717,7 +8516,6 @@
     },
     {
         "name": "Tân Trang",
-        "url": "/gioi-thieu-giao-xu/tan-trang-857",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8767,7 +8565,6 @@
     },
     {
         "name": "Tân Việt",
-        "url": "/gioi-thieu-giao-xu/tan-viet-921",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8824,7 +8621,6 @@
     },
     {
         "name": "Tân Đông",
-        "url": "/gioi-thieu-giao-xu/tan-dong-691",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -8889,7 +8685,6 @@
     },
     {
         "name": "Tân Định",
-        "url": "/gioi-thieu-giao-xu/tan-dinh-949",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -8974,7 +8769,6 @@
     },
     {
         "name": "Tân Đức",
-        "url": "/gioi-thieu-giao-xu/tan-duc-872",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9024,7 +8818,6 @@
     },
     {
         "name": "Tắc Rỗi",
-        "url": "/gioi-thieu-giao-xu/tac-roi-887",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -9067,7 +8860,6 @@
     },
     {
         "name": "Tống Viết Bường",
-        "url": "/gioi-thieu-giao-xu/tong-viet-buong-858",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -9116,7 +8908,6 @@
     },
     {
         "name": "Từ Đức",
-        "url": "/gioi-thieu-giao-xu/tu-duc-967",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -9173,7 +8964,6 @@
     },
     {
         "name": "Tử Đình",
-        "url": "/gioi-thieu-giao-xu/tu-dinh-939",
         "massTimes": {
             "sunday": [
                 "04:15",
@@ -9223,7 +9013,6 @@
     },
     {
         "name": "Vinh Sơn - Nghĩa Hoà",
-        "url": "/gioi-thieu-giao-xu/vinh-son-nghia-hoa-652",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9272,7 +9061,6 @@
     },
     {
         "name": "Vinh Sơn - Ông Tạ",
-        "url": "/gioi-thieu-giao-xu/vinh-son-ong-ta-653",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -9321,7 +9109,6 @@
     },
     {
         "name": "Vinh Sơn Phaolô",
-        "url": "/gioi-thieu-giao-xu/vinh-son-phaolo-862",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -9371,7 +9158,6 @@
     },
     {
         "name": "Văn Côi",
-        "url": "/gioi-thieu-giao-xu/van-coi-923",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -9420,7 +9206,6 @@
     },
     {
         "name": "Vĩnh Hiệp",
-        "url": "/gioi-thieu-giao-xu/vinh-hiep-675",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -9471,7 +9256,6 @@
     },
     {
         "name": "Vĩnh Hoà",
-        "url": "/gioi-thieu-giao-xu/vinh-hoa-861",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9522,7 +9306,6 @@
     },
     {
         "name": "Vĩnh Hội",
-        "url": "/gioi-thieu-giao-xu/vinh-hoi-891",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9580,7 +9363,6 @@
     },
     {
         "name": "Vườn Chuối",
-        "url": "/gioi-thieu-giao-xu/vuon-chuoi-714",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -9624,7 +9406,6 @@
     },
     {
         "name": "Vườn Xoài",
-        "url": "/gioi-thieu-giao-xu/vuon-xoai-952",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9683,7 +9464,6 @@
     },
     {
         "name": "Xuân Hiệp",
-        "url": "/gioi-thieu-giao-xu/xuan-hiep-968",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9742,7 +9522,6 @@
     },
     {
         "name": "Xây Dựng",
-        "url": "/gioi-thieu-giao-xu/xay-dung-654",
         "massTimes": {
             "sunday": [
                 "04:30",
@@ -9787,7 +9566,6 @@
     },
     {
         "name": "Xóm Chiếu",
-        "url": "/gioi-thieu-giao-xu/xom-chieu-892",
         "massTimes": {
             "sunday": [
                 "04:45",
@@ -9860,7 +9638,6 @@
     },
     {
         "name": "Xóm Lách",
-        "url": "/gioi-thieu-giao-xu/xom-lach-953",
         "massTimes": {
             "sunday": [
                 "07:00",
@@ -9909,7 +9686,6 @@
     },
     {
         "name": "Xóm Thuốc",
-        "url": "/gioi-thieu-giao-xu/xom-thuoc-679",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -9959,7 +9735,6 @@
     },
     {
         "name": "Đa Minh",
-        "url": "/gioi-thieu-giao-xu/da-minh-715",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -10025,7 +9800,6 @@
     },
     {
         "name": "Đông Quang",
-        "url": "/gioi-thieu-giao-xu/dong-quang-687",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -10083,7 +9857,6 @@
     },
     {
         "name": "Đồng Hòa",
-        "url": "/gioi-thieu-giao-xu/dong-hoa-970",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -10132,7 +9905,6 @@
     },
     {
         "name": "Đồng Tiến",
-        "url": "/gioi-thieu-giao-xu/dong-tien-851",
         "massTimes": {
             "sunday": [
                 "06:00",
@@ -10189,7 +9961,6 @@
     },
     {
         "name": "Đức Bà Chánh Toà Sài Gòn",
-        "url": "/gioi-thieu-giao-xu/duc-ba-chanh-toa-sai-gon-705",
         "massTimes": {
             "sunday": [
                 "05:30",
@@ -10262,7 +10033,6 @@
     },
     {
         "name": "Đức Bà Fatima",
-        "url": "/gioi-thieu-giao-xu/duc-ba-fatima-710",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -10304,7 +10074,6 @@
     },
     {
         "name": "Đức Bà Hoà Bình",
-        "url": "/gioi-thieu-giao-xu/duc-ba-hoa-binh-711",
         "massTimes": {
             "sunday": [
                 "06:30",
@@ -10347,7 +10116,6 @@
     },
     {
         "name": "Đức Mẹ Hằng Cứu Giúp",
-        "url": "/gioi-thieu-giao-xu/duc-me-hang-cuu-giup-928",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -10404,7 +10172,6 @@
     },
     {
         "name": "Đức Mẹ Hằng Cứu Giúp",
-        "url": "/gioi-thieu-giao-xu/duc-me-hang-cuu-giup-947",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -10495,7 +10262,6 @@
     },
     {
         "name": "Đức Mẹ Vô Nhiễm",
-        "url": "/gioi-thieu-giao-xu/duc-me-vo-nhiem-657",
         "massTimes": {
             "sunday": [
                 "05:00",
@@ -10553,7 +10319,6 @@
     },
     {
         "name": "Đức Tin",
-        "url": "/gioi-thieu-giao-xu/duc-tin-673",
         "massTimes": {
             "sunday": [
                 "05:00",

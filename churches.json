@@ -3844,40 +3844,42 @@
         "name": "Long Bình",
         "massTimes": {
             "sunday": [
-                "04:00",
-                "07:00",
-                "16:30"
+                "04:45",
+                "07:15",
+                "16:45"
             ],
             "monday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ],
             "tuesday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ],
             "wednesday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ],
             "thursday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ],
             "friday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ],
             "saturday": [
-                "04:00",
-                "18:00"
+                "04:45",
+                "17:45"
             ]
         },
         "image": "/churches_images/giao-xu-long-binh-15052020_114112.JPG",
         "address": "1259 Nguyễn Xiển, P. Long Bình, Quận 9",
         "patron": "Đức Mẹ Mân Côi",
-        "phone": "3732 5370",
-        "foundedYear": "",
+        "phone": "028 3732 5370",
+        "foundedYear": "1958",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.993216956827!2d106.8339768!3d10.888119499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174df4721c0be0f%3A0x56e69af8a285763f!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIExvbmcgQsOsbmg!5e0!3m2!1svi!2s!4v1734357165880!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/phero-nguyen-van-cuong_05102020_005358.jpg",
@@ -3926,8 +3928,10 @@
         "image": "/churches_images/giao-xu-long-thanh-my-20052020_162813.jpg",
         "address": "67 Phan Đạt Đức, Ấp 1, P.Long Thạnh Mỹ, Quận 9",
         "patron": "Chúa Giáng Sinh",
-        "phone": "3732 5055",
-        "foundedYear": "",
+        "phone": "0837325055",
+        "foundedYear": "1954",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.565551220392!2d106.82383957583896!3d10.84452155793237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317520c9013892d3%3A0x9ea1c83679b84c2d!2zTmjDoCB0aOG7nSBHacOhbyB44bupIExvbmcgVGjhuqFuaCBN4bu5!5e0!3m2!1svi!2s!4v1734357515058!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/gioakim-nguyen-duc-vu_30092024_090742.jpg",
@@ -3954,21 +3958,22 @@
                 "17:30"
             ],
             "thursday": [
-                "18:00"
+                "17:30"
             ],
             "friday": [
                 "17:30"
             ],
             "saturday": [
-                "05:30",
                 "18:00"
             ]
         },
         "image": "/churches_images/giao-xu-long-dai-20052020_162904.jpg",
-        "address": "282P Long Đại, P.Long Phước, Quận 9",
+        "address": "282 Đường Số 2, P. Long Phước, Quận 9",
         "patron": "Đức Mẹ Trinh Vương",
-        "phone": "5448 9248",
-        "foundedYear": "",
+        "phone": "028 5448 9248",
+        "foundedYear": "1990",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.695120668321!2d106.85569817583877!3d10.834627458115873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317520fa0847a7cb%3A0x27d02f140fb6cfa4!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIExvbmcgxJDhuqFp!5e0!3m2!1svi!2s!4v1734357650772!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/",
@@ -3985,8 +3990,9 @@
             "sunday": [
                 "05:00",
                 "07:00",
-                "16:00",
-                "18:00"
+                "15:30",
+                "17:00",
+                "18:30"
             ],
             "monday": [
                 "05:00",
@@ -4010,14 +4016,17 @@
             ],
             "saturday": [
                 "05:00",
-                "17:30"
+                "17:00",
+                "18:30"
             ]
         },
         "image": "/churches_images/giao-xu-lac-quang-14052020_162119.jpg",
-        "address": "51/5 Lạc Quang, KP.2, Tân Thới Nhất, Quận 12",
+        "address": "51/5 Lạc Quang, KP.2, P. Tân Thới Nhất, Quận 12",
         "patron": "Thánh Phêrô",
-        "phone": "3719 0754 - 3592 0328",
+        "phone": "028 3719 0754 - 028 3592 0328",
         "foundedYear": "1962 - 1973",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.6962627420444!2d106.61694992583871!3d10.834540208117431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752bd2f3347cc5%3A0x8189d867ef2579dc!2zTmjDoCB0aOG7nSBM4bqhYyBRdWFuZw!5e0!3m2!1svi!2s!4v1734357754899!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-truong-vinh-phuc_04102020_140104.jpg",
@@ -4039,42 +4048,44 @@
         "name": "Lạng Sơn",
         "massTimes": {
             "sunday": [
-                "04:30",
-                "06:00",
-                "07:30",
-                "17:00",
-                "19:00"
+                "05:00",
+                "06:30",
+                "07:45",
+                "16:00",
+                "17:30"
             ],
             "monday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ],
             "tuesday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ],
             "wednesday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ],
             "thursday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ],
             "friday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ],
             "saturday": [
-                "04:45",
+                "05:00",
                 "17:00"
             ]
         },
         "image": "/churches_images/P_Langson_XM.jpg",
-        "address": "25/1 Lê Đức Thọ, P.16, Q. Gò Vấp",
+        "address": "1075 Đ. Lê Đức Thọ, Phường 16, Q. Gò Vấp",
         "patron": "Thánh Giuse",
-        "phone": "3996 0320 - 3916 0096",
-        "foundedYear": "",
+        "phone": "028 3996 4603",
+        "foundedYear": "1955",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.4670070544753!2d106.65813567583898!3d10.85204055779284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529bed262d10b%3A0x6a1f9138893dbd71!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEzhuqFuZyBTxqFu!5e0!3m2!1svi!2s!4v1734357932674!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/vinh-son-nguyen-duc-dung_04102020_234155.jpg",
@@ -4096,40 +4107,43 @@
         "name": "Lộc Hưng",
         "massTimes": {
             "sunday": [
-                "04:30",
-                "06:00",
+                "05:00",
+                "07:00",
+                "16:00",
                 "17:30"
             ],
             "monday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ],
             "tuesday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ],
             "wednesday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ],
             "thursday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ],
             "friday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ],
             "saturday": [
-                "04:30",
-                "17:30"
+                "05:00",
+                "17:00"
             ]
         },
         "image": "/churches_images/giao-xu-loc-hung-19052020_203439.jpg",
         "address": "58/6 Chấn Hưng, P.6, Q. Tân Bình",
         "patron": "Đức Mẹ Mân Côi",
-        "phone": "3970 1895",
+        "phone": "028 3970 1895",
         "foundedYear": "1955 - 1963",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3371037658417!2d106.65838487583851!3d10.785472459025174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ece8562fe39%3A0x5eaabbe03fb6d5bb!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIEzhu5ljIEjGsG5n!5e0!3m2!1svi!2s!4v1734358061194!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/da-minh-dang-quoc-hung_04102020_124856.jpg",
@@ -4144,7 +4158,8 @@
         "name": "Mai Khôi",
         "massTimes": {
             "sunday": [
-                "06:30",
+                "06:00",
+                "08:00",
                 "17:00"
             ],
             "monday": [
@@ -4167,10 +4182,12 @@
             ]
         },
         "image": "/churches_images/P_Maikhoi_SGCQ.jpg",
-        "address": "666/66 Võ Văn Kiệt, Phường 01, Quận 5",
-        "patron": "Đức Mẹ Môi Khôi",
-        "phone": "3836 6461",
+        "address": "666/66 Võ Văn Kiệt, Phường 1, Quận 5",
+        "patron": "Đức Mẹ Mân Côi",
+        "phone": "028 3836 6461",
         "foundedYear": "1976 - 1996",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.7581496054822!2d106.6833655!3d10.7531135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752efe1c16b853%3A0x5777fde2dd53f684!2zTmjDoCB0aOG7nSBnacOhbyB44bupIE1haSBLaMO0aQ!5e0!3m2!1svi!2s!4v1734363074177!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-trinh-thanh-hoang_26052022_222502.jpg",
@@ -4221,8 +4238,10 @@
         "image": "/churches_images/P_Maikhoi_TD.jpg",
         "address": "44 Tú Xương, P.7, Quận 3",
         "patron": "Đức Mẹ Mai Khôi",
-        "phone": "3932 5738 - 3932 0360",
+        "phone": "028 3932 5738",
         "foundedYear": "1975 - 1998",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4337737141427!2d106.6832941!3d10.778051500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f25923a21c5%3A0xfa967a43aae46af5!2zVHUgdmnhu4duIEdpw6FvIHjhu6kgTWFpIEtow7RpLg!5e0!3m2!1svi!2s!4v1734363096465!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/01092022_082243.jpg",
@@ -4245,8 +4264,9 @@
         "massTimes": {
             "sunday": [
                 "04:45",
-                "07:15",
-                "17:30"
+                "07:30",
+                "17:00",
+                "19:00"
             ],
             "monday": [
                 "04:45",
@@ -4270,14 +4290,16 @@
             ],
             "saturday": [
                 "04:45",
-                "17:45"
+                "17:30"
             ]
         },
         "image": "/churches_images/giao-xu-minh-duc-14052020_105923.JPG",
         "address": "10 đường 154, Ấp Cây Dầu, P.Tân Phú, Quận 9",
         "patron": "Đức Mẹ Vô Nhiễm",
-        "phone": "3896 5152",
-        "foundedYear": "",
+        "phone": "028 3896 5152",
+        "foundedYear": "1970",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.2667177061444!2d106.80442457583895!3d10.867306957509237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752757805a4521%3A0xb4c12097feab64dd!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIE1pbmggxJDhu6lj!5e0!3m2!1svi!2s!4v1734363200510!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/vinh-son-nguyen-duy-nam-op_04102020_194104.jpg",
@@ -4300,7 +4322,7 @@
         "massTimes": {
             "sunday": [
                 "05:00",
-                "07:00",
+                "06:45",
                 "08:30",
                 "15:30",
                 "17:45"
@@ -4333,8 +4355,10 @@
         "image": "/churches_images/P_Mancoi_GV.jpg",
         "address": "90 Nguyễn Thái Sơn, P.3, Q. Gò Vấp",
         "patron": "Đức Mẹ Mân Côi",
-        "phone": "3985 2776",
+        "phone": "028 3985 2776",
         "foundedYear": "1967 - 1980",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.9285640997264!2d106.67628068491003!3d10.816778830964425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528e15cd224b5%3A0x17c0c0aec8f4834a!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIE3Dom4gQ8O0aQ!5e0!3m2!1svi!2s!4v1734363285293!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/10082023_220457.jpg",
@@ -4356,34 +4380,43 @@
         "name": "Môi Khôi",
         "massTimes": {
             "sunday": [
-                "06:00",
-                "08:00",
-                "17:30"
+                "05:30",
+                "07:30",
+                "16:00",
+                "18:00"
             ],
             "monday": [
+                "05:30",
                 "17:30"
             ],
             "tuesday": [
+                "05:30",
                 "17:30"
             ],
             "wednesday": [
+                "05:30",
                 "17:30"
             ],
             "thursday": [
+                "05:30",
                 "17:30"
             ],
             "friday": [
+                "05:30",
                 "17:30"
             ],
             "saturday": [
-                "05:30"
+                "05:30",
+                "17:30"
             ]
         },
         "image": "/churches_images/P_Moikhoi_XC.jpg",
-        "address": "295 Huỳnh Tấn Phát, P.Tân Thuận Đông, Quận 7",
-        "patron": "Đức Mẹ Môi Khôi",
-        "phone": "6262 1255",
-        "foundedYear": "",
+        "address": "295 Huỳnh Tấn Phát, P. Tân Thuận Đông, Quận 7",
+        "patron": "Đức Mẹ Mân Côi",
+        "phone": "028 6262 1255",
+        "foundedYear": "1967",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.7400591215305!2d106.728004!3d10.7545058!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175258618772f27%3A0x70949fb6a3d6c399!2zR2nDoW8gWOG7qSBNw7RpIEtow7Rp!5e0!3m2!1svi!2s!4v1734530507509!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/anre-tran-minh-thong_22102020_104209.jpg",
@@ -4406,9 +4439,8 @@
         "massTimes": {
             "sunday": [
                 "06:00",
-                "07:30",
-                "15:30",
-                "17:30"
+                "08:00",
+                "18:00"
             ],
             "monday": [
                 "18:00"
@@ -4430,10 +4462,12 @@
             ]
         },
         "image": "/churches_images/P_Mongtrieu_BA.jpg",
-        "address": "11E Phạm Thế Hiển, Dạ Nam, Cầu chữ Y, P.3, Quận 8",
+        "address": "11 Đ. Phạm Thế Hiển, Phường 3, Quận 8",
         "patron": "Đức Mẹ Lên Trời",
-        "phone": "38515871",
-        "foundedYear": "1994-1999",
+        "phone": "028 3851 5871",
+        "foundedYear": "1994 - 1999",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31355.97673029982!2d106.67438385994402!3d10.773188129427687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f06e3e1e411%3A0xa963c2d68d905e68!2zTmjDoCB0aOG7nSBNw7RuZyBUcmnhu4d1!5e0!3m2!1svi!2s!4v1734530671461!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-van-khiem_04102020_194918.jpg",
@@ -4445,10 +4479,11 @@
         ]
     },
     {
-        "name": "Mạc ty Nho",
+        "name": "Mạc Ty Nho",
         "massTimes": {
             "sunday": [
                 "07:00",
+                "08:30",
                 "17:30"
             ],
             "monday": [
@@ -4471,10 +4506,12 @@
             ]
         },
         "image": "/churches_images/P_Mactynho_SGCQ.jpg",
-        "address": "16A Nguyễn Thị Minh Khai, Quận 1",
+        "address": "16 Đ. Nguyễn Thị Minh Khai, Đa Kao, Quận 1",
         "patron": "Thánh Martinô",
-        "phone": "3823 7095",
+        "phone": "028 3823 7095",
         "foundedYear": "1961 - 1999",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.327923101195!2d106.69848717583844!3d10.786176959012167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f4a63f5b9cb%3A0x98250d9927ff46e8!2zTmjDoCB0aOG7nSBHacOhbyB44bupIE3huqFjIFR5IE5obw!5e0!3m2!1svi!2s!4v1734530779709!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/vinh-son-nguyen-hoang-le-nguyen_24102020_082126.jpg",
@@ -4495,35 +4532,37 @@
                 "18:30"
             ],
             "monday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ],
             "tuesday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ],
             "wednesday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ],
             "thursday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ],
             "friday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ],
             "saturday": [
-                "05:30",
+                "05:00",
                 "18:00"
             ]
         },
         "image": "/churches_images/P_Mautam_CH.jpg",
-        "address": "389 Hoàng Văn Thụ, P. 2, Q. Tân Bình",
+        "address": "389 Đ. Hoàng Văn Thụ, Phường 2, Q. Tân Bình",
         "patron": "Trái Tim Vẹn Sạch Đức Mẹ",
-        "phone": "3811 2749 - 3845 3684",
+        "phone": "028 3811 2749 - 028 3845 3684",
         "foundedYear": "1955 - 1972",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.157507835869!2d106.65568018490875!3d10.799245931331136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752930e08b204b%3A0x74eced00c463cb6d!2zTmjDoCB0aOG7nSBN4bqrdSBUw6Jt!5e0!3m2!1svi!2s!4v1734530879437!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/martino-chu-quang-dinh_04102020_125551.jpg",
@@ -4544,35 +4583,37 @@
                 "18:00"
             ],
             "monday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ],
             "tuesday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ],
             "wednesday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ],
             "thursday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ],
             "friday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ],
             "saturday": [
-                "05:15",
+                "05:00",
                 "18:00"
             ]
         },
         "image": "/churches_images/P_Mautam_XC.jpg",
-        "address": "102 Phan Huy Thực, P.Tân Kiểng, Quận 7",
+        "address": "102 Phan Huy Thực, Tân Kiểng, Quận 7",
         "patron": "Mẫu Tâm",
-        "phone": "3771 1090",
-        "foundedYear": "",
+        "phone": "028 3771 1090",
+        "foundedYear": "1963",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.8307655143226!2d106.7050796758382!3d10.747522959724595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f7666e90cd9%3A0x7c0d5a124f8008b3!2zTmjDoCB0aOG7nSBN4bqrdSBUw6Jt!5e0!3m2!1svi!2s!4v1734530968733!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-dinh-van-tho_04102020_145325.jpg",
@@ -4624,10 +4665,12 @@
             ]
         },
         "image": "/churches_images/P_Myhoa_TT.jpg",
-        "address": "136 KP.1, P.Bình Trưng Đông, Quận 2",
+        "address": "136 Đ. 11, Bình Trưng Đông, Q. Thủ Đức",
         "patron": "Đức Mẹ Mân Côi",
-        "phone": "3743 0808",
-        "foundedYear": "",
+        "phone": "028 3743 0808",
+        "foundedYear": "1955",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62701.63866388623!2d106.65052716873296!3d10.822604124005228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317526820bf9beb9%3A0x966543a1db8d6236!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIE3hu7kgSMOyYQ!5e0!3m2!1svi!2s!4v1734531279733!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-van-long_04102020_220947.jpg",
@@ -4643,7 +4686,7 @@
         "massTimes": {
             "sunday": [
                 "04:30",
-                "07:00",
+                "07:30",
                 "15:30",
                 "17:30"
             ],
@@ -4673,10 +4716,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-nam-hoa-01032023_100650.jpg",
-        "address": "35/40/9 đường Đất Thánh, P.6, Q. Tân Bình",
+        "address": "219/20 Đất Thánh, Phường 6, Q. Tân Bình",
         "patron": "Thánh Giuse",
-        "phone": "3865 3044 - 3865 3664 - 3866 1831",
+        "phone": "028 3865 3044 - 028 3866 1831",
         "foundedYear": "1955 - 1998",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.3641927198714!2d106.65747997583846!3d10.78339345906359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ecc572742af%3A0x6bee943694f2f16c!2zR2nDoW8geOG7qSBOYW0gSMOyYQ!5e0!3m2!1svi!2s!4v1734531399084!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/phanxico-x-dau-nguyen-hoang-linh_22102020_084254.jpg",
@@ -4699,8 +4744,8 @@
         "massTimes": {
             "sunday": [
                 "05:00",
-                "09:30",
-                "16:30",
+                "07:30",
+                "16:45",
                 "19:00"
             ],
             "monday": [
@@ -4731,8 +4776,10 @@
         "image": "/churches_images/giao-xu-nam-hung-14052020_162557.jpg",
         "address": "53/7 Thống Nhất 2, Tân Thới Nhì, Huyện Hóc Môn",
         "patron": "Đức Mẹ Vô Nhiễm",
-        "phone": "3713 1674",
+        "phone": "028 3713 1674",
         "foundedYear": "1955 - 1974",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.8991495176233!2d106.5747025758392!3d10.895268656988724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d57740dd97bb%3A0xa42d2e8b2f90dea!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIE5hbSBIxrBuZw!5e0!3m2!1svi!2s!4v1734531486989!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/gioan-b-nguyen-huu-hiep_05102020_003122.JPG",
@@ -4779,10 +4826,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-nam-hai-18032024_120940.jpg",
-        "address": "277 phạm Hùng, P.4, Quận 8",
+        "address": "277 Đ. Phạm Hùng, Phường 4, Quận 8",
         "patron": "Đức Mẹ Lên Trời",
-        "phone": "38504206",
-        "foundedYear": "1965-1989",
+        "phone": "028 3850 4206",
+        "foundedYear": "1965 - 1989",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125389.76577371593!2d106.69638577327449!3d10.854849138379079!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752e52136ed3b3%3A0xa54bc548c79154a3!2zTmjDoCB0aOG7nSBOYW0gSOG6o2k!5e0!3m2!1svi!2s!4v1734531557669!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/phanxico-x-nguyen-van-thanh_18032024_113731.jpg",
@@ -4834,10 +4883,12 @@
             ]
         },
         "image": "/churches_images/P_Namthai_CH.jpg",
-        "address": "168/50 CMT8, P.5, Q. Tân Bình",
+        "address": "838 Đ. Cách Mạng Tháng 8, Phường 5, Q. Tân Bình",
         "patron": "Đức Mẹ Lên Trời",
-        "phone": "3845 1887",
+        "phone": "028 3845 1887",
         "foundedYear": "1956 - 1994",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2881976823646!2d106.65866607583857!3d10.789224858955889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f3abeeed651%3A0x92cc86d677057f40!2zTmjDoCB0aOG7nSBHeCBOYW0gVGjDoWku!5e0!3m2!1svi!2s!4v1734531623333!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/gioan-b-nguyen-quang-tuyen_22102020_090017.png",
@@ -4865,35 +4916,37 @@
                 "16:30"
             ],
             "monday": [
-                "05:30",
+                "04:30",
                 "17:00"
             ],
             "tuesday": [
-                "05:30",
+                "04:30",
                 "17:00"
             ],
             "wednesday": [
-                "05:30",
+                "04:30",
                 "17:00"
             ],
             "thursday": [
-                "05:30",
+                "04:30",
                 "18:30"
             ],
             "friday": [
-                "05:30",
+                "04:30",
                 "17:00"
             ],
             "saturday": [
-                "05:30",
+                "04:30",
                 "17:00"
             ]
         },
         "image": "/churches_images/P_Nghiahoa_CH.jpg",
-        "address": "25/18 Nghĩa Hoà, P.6, Q. Tân Bình",
+        "address": "25/18 Đ. Nghĩa Hòa, Phường 6, Q. Tân Bình",
         "patron": "Đức Mẹ Vô Nhiễm",
-        "phone": "3865 1679 - 3970 1435",
+        "phone": "028 3865 1679 - 028 3970 1435",
         "foundedYear": "1954 - 1963",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.325014355376!2d106.65667407583838!3d10.786400159008071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ecc05877a39%3A0xa4fab7ba6e49e674!2zR2nDoW8geOG7qSBOZ2jEqWEgSMOyYQ!5e0!3m2!1svi!2s!4v1734531702844!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-nguyen-duc-quang_04102020_205455.jpg",
@@ -4936,8 +4989,7 @@
             ],
             "thursday": [
                 "05:00",
-                "17:30",
-                "19:00"
+                "17:30"
             ],
             "friday": [
                 "05:00",
@@ -4950,10 +5002,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-nhan-hoa-17052020_132306.JPG",
-        "address": "45 Hồ Đắc Di, P.Tây Thạnh, Q. Tân Phú",
+        "address": "45 Hồ Đắc Di, P. Tây Thạnh, Q. Tân Phú",
         "patron": "Thánh Phaolô Trở Lại",
-        "phone": "3849 5274 - 3849 5690",
+        "phone": "028 3849 5274 - 028 3849 5690",
         "foundedYear": "1971",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.0733289789273!2d106.63013047583861!3d10.80569575865153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752959b00e6c7f%3A0xd9350a668911f8c8!2zTmjDoCB0aOG7nSBHacOhbyB44bupIE5ow6JuIEjDsmE!5e0!3m2!1svi!2s!4v1734531796845!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/da-minh-vu-dinh-thai_24102020_074735.jpg",
@@ -4990,40 +5044,36 @@
         "massTimes": {
             "sunday": [
                 "05:00",
-                "07:15",
+                "07:00",
                 "15:30",
                 "17:00"
             ],
             "monday": [
-                "05:00",
                 "18:00"
             ],
             "tuesday": [
-                "05:00",
                 "18:00"
             ],
             "wednesday": [
-                "05:00",
                 "18:00"
             ],
             "thursday": [
-                "05:00",
                 "18:00"
             ],
             "friday": [
-                "05:00",
                 "18:00"
             ],
             "saturday": [
-                "05:00",
                 "18:00"
             ]
         },
         "image": "/churches_images/giao-xu-ninh-phat-21052020_124807.jpg",
         "address": "3A 62 Ấp 3, X. Phạm Văn Hai, Huyện Bình Chánh",
         "patron": "Đức Mẹ Lên Trời",
-        "phone": "3877 2158",
+        "phone": "028 3877 2158",
         "foundedYear": "1956 - 1988",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.297021152949!2d106.51527817583847!3d10.788547958968438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310ad344aa1565c7%3A0x11d4b13c49097051!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIE5pbmggUGjDoXQ!5e0!3m2!1svi!2s!4v1734531877556!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/anton-nguyen-thanh-danh_04102020_135532.jpg",
@@ -5067,7 +5117,7 @@
         "massTimes": {
             "sunday": [
                 "04:45",
-                "06:15",
+                "07:00",
                 "17:15",
                 "19:00"
             ],
@@ -5099,8 +5149,10 @@
         "image": "/churches_images/P_Nuvuonghoabinh_XM.jpg",
         "address": "62/3 Lê Đức Thọ, P.13, Q. Gò Vấp",
         "patron": "Mẹ Thiên Chúa",
-        "phone": "3894 7371 - 3901 6470",
-        "foundedYear": "",
+        "phone": "028 3894 7371 - 028 3901 6470",
+        "foundedYear": "1965",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125417.43668810437!2d106.43545202266517!3d10.788710957098282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529c075a383f3%3A0x77259cee4efeeb29!2zTmjDoCBUaOG7nSDEkOG7qWMgTeG6uSBO4buvIFbGsMahbmcgSMOyYSBCw6xuaA!5e0!3m2!1svi!2s!4v1734531945164!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/inhaxio-nguyen-quoc-bao_25092020_091139.JPG",
@@ -5146,10 +5198,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-phanxico-dakao-26052020_222713.jpg",
-        "address": "50 Nguyễn Đình Chiểu, P.Đakao, Quận 1",
+        "address": "50 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1",
         "patron": "Thánh Phanxicô Assisi",
-        "phone": "62914945",
-        "foundedYear": "1973 - 1975",
+        "phone": "028 3822 2294",
+        "foundedYear": "1950",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.282815214!2d106.69785937583856!3d10.789637758948265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528b54fb5699d%3A0x5e395d409cce89ba!2zTmjDoCBUaOG7nSBHacOhbyB44bupIFBoYW54aWPDtCDEkGFrYW8!5e0!3m2!1svi!2s!4v1734534659050!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/26112020_075619.JPG",
@@ -5179,34 +5233,36 @@
             ],
             "monday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ],
             "tuesday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ],
             "wednesday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ],
             "thursday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ],
             "friday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ],
             "saturday": [
                 "05:00",
-                "17:15"
+                "17:30"
             ]
         },
         "image": "/churches_images/P_Phatdiem_PN.jpg",
-        "address": "485 Nguyễn Kiệm, P.9, Q.  Phú Nhuận",
+        "address": "485 Nguyễn Kiệm, P. 9, Q.  Phú Nhuận",
         "patron": "Đức Mẹ Lên Trời",
-        "phone": "3845 3445 - 3990 4747",
-        "foundedYear": "",
+        "phone": "028 3845 3445 - 028 3990 4747",
+        "foundedYear": "1955",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31350.638051641152!2d106.6546838099686!3d10.824337019175855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528d84b9d8c41%3A0xa46c68f0ce60d288!2zTmjDoCB0aOG7nSBQaMOhdCBEaeG7h20!5e0!3m2!1svi!2s!4v1734534808923!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-pham-dinh-dai_04102020_140635.jpg",
@@ -5229,7 +5285,7 @@
         "massTimes": {
             "sunday": [
                 "05:00",
-                "07:30",
+                "07:00",
                 "17:00"
             ],
             "monday": [
@@ -5246,7 +5302,7 @@
             ],
             "thursday": [
                 "05:00",
-                "18:00"
+                "17:00"
             ],
             "friday": [
                 "05:00",
@@ -5260,8 +5316,10 @@
         "image": "/churches_images/P_Phubinh_PT.jpg",
         "address": "423 Lạc Long Quân, P.5, Quận 11",
         "patron": "Thánh Gia Thất",
-        "phone": "3860 0081",
-        "foundedYear": "",
+        "phone": "028 3860 0081",
+        "foundedYear": "1958",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.4909522443027!2d106.64126867583836!3d10.77365975924313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ebcf8b4b00f%3A0xdfd70dd3811c4211!2zTmjDoCB0aOG7nSBHacOhbyB44bupIFBow7ogQsOsbmg!5e0!3m2!1svi!2s!4v1734534897291!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-dao-hoang-vu_04102020_133915.jpg",
@@ -5306,10 +5364,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-phu-hien-15052020_081554.JPG",
-        "address": "214/57bis Vạn Kiếp, P.3, Q. Bình Thạnh",
+        "address": "214/57 Đ. Vạn Kiếp, Phường 3, Q. Bình Thạnh",
         "patron": "Đức Mẹ Mân Côi",
-        "phone": "3843 1167",
+        "phone": "090 252 3620",
         "foundedYear": "1957 - 1989",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.1739502747682!2d106.69032657583854!3d10.797985658794053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528cf26b3fb47%3A0xd4488fa1b2455cd8!2zTmjDoCB0aOG7nSBHacOhbyB44bupIFBow7ogSGnhu4Fu!5e0!3m2!1svi!2s!4v1734534949658!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/phero-trinh-hong-hai_22102020_093918.jpg",
@@ -5324,6 +5384,7 @@
         "name": "Phú Hoà",
         "massTimes": {
             "sunday": [
+                "05:00",
                 "07:30",
                 "17:00"
             ],
@@ -5347,38 +5408,12 @@
             ]
         },
         "image": "/churches_images/giao-xu-phu-hoa-16052020_153827.jpeg",
-        "address": "19/2 Hoàng Xuân Nhị, P.Phú Trung, Q. Tân Phú",
+        "address": "19/2 Hoàng Xuân Nhị, P. Phú Trung, Q. Tân Phú",
         "patron": "Thánh Giuse Thợ",
-        "phone": "3974 0470",
-        "foundedYear": "",
-        "priests": [
-            {
-                "image": "/churches_images/vinh-son-tran-quoc-su_05102020_002613.jpg",
-                "name": "Vinh Sơn Trần Quốc Sử",
-                "role": "Chánh xứ",
-                "fromYear": "2021",
-                "phone": ""
-            }
-        ]
-    },
-    {
-        "name": "Phú Hòa",
-        "massTimes": {
-            "sunday": [
-                "05:30"
-            ],
-            "monday": [],
-            "tuesday": [],
-            "wednesday": [],
-            "thursday": [],
-            "friday": [],
-            "saturday": []
-        },
-        "image": "/churches_images/giao-xu-phu-hoa-16052020_153827.jpeg",
-        "address": "19/2 Hoàng Xuân Nhị, P.Phú Trung, Q. Tân Phú",
-        "patron": "Thánh Giuse Thợ",
-        "phone": "3974 0470",
-        "foundedYear": "",
+        "phone": "028 3974 0470",
+        "foundedYear": "1959",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.451696844865!2d106.64278857583822!3d10.776675059187474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752ebbeb104883%3A0xbc67f7512a83dc9b!2zTmjDoCBUaOG7nSBHacOhbyBY4bupIFBow7ogSMOyYQ!5e0!3m2!1svi!2s!4v1734535067594!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/vinh-son-tran-quoc-su_05102020_002613.jpg",
@@ -5413,11 +5448,11 @@
             ],
             "thursday": [
                 "05:00",
-                "18:00"
+                "17:30"
             ],
             "friday": [
                 "05:00",
-                "17:00"
+                "17:30"
             ],
             "saturday": [
                 "05:00",
@@ -5427,8 +5462,10 @@
         "image": "/churches_images/giao-xu-phu-hanh-20052020_093105.jpg",
         "address": "121 Phan Đăng Lưu, P.7, Q.  Phú Nhuận",
         "patron": "Chúa Ba Ngôi",
-        "phone": "3844 1405",
-        "foundedYear": "",
+        "phone": "028 3844 1405",
+        "foundedYear": "1975",
+        "mapembed": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.104673646855!2d106.6822354758387!3d10.803294558695931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528da537f60df%3A0x12ca5a2e0bd81461!2zR2nDoW8gWOG7qSBQaMO6IEjhuqFuaA!5e0!3m2!1svi!2s!4v1734535117154!5m2!1svi!2s' width='100%' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>",
+
         "priests": [
             {
                 "image": "/churches_images/giuse-maria-le-quoc-thang_04102020_182347.jpg",
